@@ -1,0 +1,401 @@
+397
+#+title: Glossary of biology
+#+source: https://en.wikipedia.org/wiki/Glossary_of_biology
+
+<<absorption>> :: /(physiology)/ A process in which one substance permeates another. A fluid permeates or is dissolved by a liquid or solid. Skin absorption is a route by which substances can enter the body through the skin.
+<<acclimatization>> :: /(physiology)/ Adaptation to a new climate, as with a new temperature or altitude or environment.
+<<acetyl-CoA>> :: /(biochemistry)/ Acetyl coenzyme A is a molecule participating in many biochemical reactions in carbohydrate, protein and lipid metabolism. Its main function is to deliver the acetyl group to the citric acid cycle (Krebs cycle) to be oxidized for energy production.
+<<acoelomate>> :: /(zoology)/ A type of animal, such as a flatworm, with a body plan that lacks a fluid-filled cavity between the body wall and the digestive tract. Rather, semi-solid mesodermal tissues between the gut and body wall hold the animal's organs in place. Contrast /coelomate/ and /pseudocoelomate/.
+<<adaptation>> :: /(evolutionary biology, population biology)/ Term can apply to an individual organism's adaptation to its environment, the adaptation of organisms to an environment through evolutionary processes, or the population dynamics intrisic to the evolutionary process.
+<<adenine>> :: /(biochemistry)/ A purine-derived organic compound which is one of the four canonical nucleobases used in the nucleic acids DNA and RNA. Its derivatives are involved in a wide variety of biochemical reactions, including cellular respiration.
+<<aerobic>> :: Capable of surviving and growing in the presence of oxygen.
+<<amino acid>> :: /(biochemistry)/ A class of organic compounds containing an amine group and a carboxylic acid group which function as the fundamental building blocks of proteins and play important roles in many other biochemical processes.
+<<anaerobic>> :: Any organism that does not require molecular oxygen for growth.
+<<animal>> :: Any member of a clade of multicellular eukaryotic organisms belonging to the biological kingdom Animalia. With few exceptions, animals consume organic material, breathe oxygen, are able to move, reproduce sexually, and grow from a blastula during embryonic development. An estimated 7 million distinct animal species currently exist.
+<<antibiotic>> :: A type of antimicrobial drug used in the treatment and prevention of bacterial infections.
+<<Archaea>> :: One of the three recognized domains of organisms, the other two being Bacteria and Eukaryota.
+<<artificial selection>> :: The process by which humans use animal breeding and plant breeding to selectively control the development of particular phenotypic traits in organisms by choosing which individual organisms will reproduce and create offspring. While the deliberate exploitation of knowledge about genetics and reproductive biology in the hope of producing desirable characteristics is widely practiced in agriculture and experimental biology, artificial selection may also be unintentional and may produce unintended (desirable or undesirable) results.
+<<asexual reproduction>> :: A type of reproduction involving a single parent that results in offspring that are genetically identical to the parent.
+<<astrobiology>> :: The branch of biology concerned with the effects of outer space on living organisms and the search for extraterrestrial life.
+<<autoimmunity>> :: The system of immune responses of an organism directed against its own healthy cells and tissues.
+<<autotroph>> :: An organism capable of producing complex organic compounds from simple substances present in its surroundings, generally by using energy from sunlight (as in photosynthesis) or from inorganic chemical reactions (as in chemosynthesis). Autotrophs do not need to consume another living organism in order to obtain energy or organic carbon, as opposed to heterotrophs.
+<<B cell>> :: A type of lymphocyte in the humoral immunity of the adaptive immune system.
+<<bacteria>> :: An enormous and diverse clade of microscopic, prokaryotic, single-celled organisms which lack a true nucleus. They represent one of the three fundamental biological domains.
+<<bacteriophage>> :: A virus that infects and multiplies within bacteria.
+<<Barr body>> :: The inactive X chromosome in a female somatic cell, rendered inactive in a process called lyonization, in those species in which sex is determined by the presence of the Y chromosome (including humans) or W chromosome rather than by the presence of two X chromosomes or two Z chromosomes.
+<<basal body>> :: An organelle formed from a centriole, and a short cylindrical array of microtubules. Also called a /basal granule/, a /kinetosome/, and in older cytological literature, a /blepharoplast/.
+<<behavioral ecology>> :: The study of the evolutionary basis for animal behavior due to ecological pressures.
+<<bile>> :: A dark green to yellowish-brown fluid, produced by the liver of most vertebrates, which aids the digestion of lipids in the small intestine. Also called /gall/.
+<<binary fission>> :: The process by which one prokaryotic cell divides into two identical daughter cells.
+<<binomial nomenclature>> :: A formal system of classifying species of living things by giving each a name composed of two parts, both of which use Latin grammatical forms, although they can be based on words from other languages.
+<<biocatalysis>> :: The process of catalysis in biological systems. In biocatalytic processes, natural catalysts, such as protein enzymes, perform chemical transformations on organic compounds.
+<<biochemistry>> :: The branch of biology that studies the chemical properties, compositions, reactions, and processes related to living organisms.
+<<biodiversity>> :: A contraction of "biological diversity" generally referring to the variety and variability of life on Earth.
+<<bioengineering>> :: The application of concepts and methods of biology to solve real-world problems related to the life sciences or the application thereof.
+<<bioenergetics>> :: The study of the transformation of energy within and between living organisms.
+<<biogeography>> :: The study of the distribution of species and ecosystems in geographic space and through geological time. Organisms and biological communities often vary in a regular fashion along geographic gradients of latitude, elevation, isolation and habitat area.
+<<bioinformatics>> :: The application of computer technology to the management of biological information.
+<<biological organization>> :: The hierarchy of complex biological structures and systems, designed to define life through a reductionist approach.
+<<biology>> :: The scientific study of life.
+<<biomass>> :: Organic matter derived from living or recently living organisms. Biomass can be used as a source of energy and it most often refers to plants or plant-based materials which are not used for food or feed, and are specifically called lignocellulosic biomass.
+<<biomathematics>> :: The theoretical use of mathematical models and abstractions of living systems to understand and predict biological problems.
+<<biome>> :: Any very large ecological area on the Earth's surface containing fauna and flora (animals and plants) adapting to their environment. Biomes are often defined by abiotic factors such as climate, topographical relief, geology, soils, and water resources.
+<<biomechanics>> :: The study of the structure and function of biological systems by means of the methods of "mechanics", which is the branch of physics involving analysis of the actions of forces.
+<<biomedical engineering>> :: The application of engineering principles and design concepts to medicine and biology for healthcare purposes (e.g. diagnostic or therapeutic).
+<<biomedical research>> :: The pursuit of answers to medical questions. These investigations lead to discoveries, which in turn lead to the development of new preventions, therapies, and cures for problems in human and veterinary health. Biomedical research generally takes two forms: basic science and applied research.
+<<biomolecule>> :: Molecules and ions that are present in organisms, essential to some typically biological process such as cell division, morphogenesis, or development.
+<<biophysics>> :: The application of approaches traditionally employed in physics to study biological systems.
+<<biosynthesis>> ::
+<<biotechnology>> :: Biotechnology is the use of living systems and organisms to develop or make products, or "any technological application that uses biological systems, living organisms or derivatives thereof, to make or modify products or processes for specific use" (UN Convention on Biological Diversity).
+<<bipedal>> :: A form of terrestrial locomotion where an organism moves by means of its two rear limbs or legs.
+<<birth>> ::
+<<blastocyst>> :: A mammalian blastula in which some differentiation of cells has occurred.
+<<blood>> :: A body fluid that circulates in humans and other vertebrate animals and is generally responsible for delivering necessary substances such as oxygen and nutrients between the cells and tissues of the body and transporting metabolic waste products away from those same cells and tissues.
+<<blood--brain barrier>> :: A semipermeable membrane separating the blood from the cerebrospinal fluid, and constituting a barrier to the passage of cells, particles, and large molecules.
+<<botany>> :: The branch of biology that studies plants.
+<<building biology>> A science that leads to natural healthy ecological homes, schools, and workplaces that exist in harmony with the environment.
+<<Calvin cycle>> :: A series of chemical reactions which occurs as one of two primary phases of photosynthesis, specifically the phase in which carbon dioxide and other compounds are converted into simple carbohydrates such as glucose. These reactions occur in the stroma, the fluid-filled area of the chloroplast outside the thylakoid membranes. In the Calvin cycle, the products of previous light-dependent reactions ( ATP and NADPH) undergo further reactions which do not require the presence of light and which can be broadly divided into three stages: carbon fixation, reduction reactions, and ribulose 1,5-bisphosphate (RuBP) regeneration. ^{[1]}
+<<carbon fixation>> :: The process by which inorganic carbon, particularly in the form of carbon dioxide, is converted to organic compounds by living organisms. Examples include photosynthesis and chemosynthesis.
+<<carbonate>> :: Any member of two classes of chemical compounds derived from carbonic acid or carbon dioxide.
+<<carotenoid>> :: One of a class of organic pigments produced by algae and plants, as well as certain bacteria and fungi.
+<<catalase>> :: An enzyme found in nearly all living organisms exposed to oxygen, including bacteria, plants, and animals.
+<<cell>> :: The basic structural and functional unit of all living organisms, and the smallest functional unit of life. A cell may exist as an independent, self-replicating unit (as in the case of unicellular organisms), or in cooperation with other cells, each of which may be specialized for carrying out particular functions within a larger multicellular organism. Cells consist of cytoplasm enclosed within a cell membrane and sometimes a cell wall, and serve the fundamental purpose of separating the controlled environment in which biochemical processes take place from the outside world. Most cells are visible only under a microscope.
+<<cell biology>> :: The branch of biology that studies the structure and function of living cells, including their physiological properties, metabolic processes, chemical composition, life cycle, the organelles they contain, and their interactions with their environment. This is done at both microscopic and molecular levels.
+<<cell cycle>> :: The ordered series of events which take place in a cell leading to duplication of its genetic material and ultimately the division of the cytoplasm and organelles to produce two or more daughter cells. These events can be broadly divided into phases of growth and division, each of which can vary in duration and complexity depending on the tissue or organism to which the cell belongs. Cell cycles are essential processes in all unicellular and multicellular organisms.
+<<cell division>> :: Any process by which a parent cell divides into two or more daughter cells. Examples include binary fission, mitosis, and meiosis.
+<<cell membrane>> :: The semipermeable membrane surrounding the cytoplasm of a cell.
+<<cell nucleus>> :: The "control room" for the cell. The nucleus gives out all the orders.
+<<cell plate>> :: Grown in the cell's center, it fuses with the parental plasma membrane, creating a new cell wall that enables cell division.
+<<cell theory>> :: The theory that all living things are made up of cells.
+<<cell wall>> :: A tough, often rigid structural barrier surrounding certain types of cells (such as in fungi, plants, and most prokaryotes) that is immediately external to the cell membrane.
+<<cellular>> Of or relating to a cell.
+<<central dogma of molecular biology>> :: A framework for understanding the movement of genetic information between information-carrying biopolymers within biological systems. Popularly (though simplistically) stated as " DNA makes RNA and RNA makes protein", the principle attempts to capture the notion that the transfer of genetic information only naturally occurs between certain classes of molecules and in certain directions.
+<<centriole>> :: A cylindrical cell structure found in most eukaryotic cells, composed mainly of a protein called tubulin.
+<<centrosome>> :: An organelle that is the primary site at which microtubules are organized. They occur only in plant and animal cells and help to regulate cell division.
+<<chemical compound>> :: A chemical substance consisting of two or more different chemically bonded elements, with a fixed ratio determining the composition. The ratio of each element is usually expressed by a chemical formula.
+<<chemical equilibrium>> :: The state in which both reactants and products are present in concentrations which have no further tendency to change with time in a chemical reaction.
+<<chemical reaction>> :: A process that leads to the transformation of one set of chemical substances to another.
+<<chemistry>> :: A branch of the physical sciences that studies the composition, structure, properties, and change of matter. Chemical interactions underlie all biological processes.
+<<chemosynthesis>> ::
+<<chlorophyll>> :: Any of several photosynthetic pigments found in cyanobacteria, algae, or plants.
+<<chloroplast>> :: A type of highly specialized organelle in the cells of plants and algae, the main role of which is to conduct photosynthesis, by which the photosynthetic pigment chlorophyll captures the energy from sunlight and converts and stores it in the molecules ATP and NADPH while freeing oxygen from water.
+<<cholesterol>> :: A type of lipid molecule that is biosynthesized by all animal cells because it is an essential structural component of animal cell membranes, essential for maintaining both membrane structural integrity and fluidity.
+<<chromosome>> :: A threadlike strand of DNA in the cell nucleus that carries the genes in a linear order.
+<<cilia>> ::
+<<circadian rhythm>> ::
+<<citric acid cycle>> :: A series of chemical reactions used by all aerobic organisms to generate energy through the oxidation of acetyl-CoA derived from carbohydrates, fats, and proteins into carbon dioxide and chemical energy in the form of guanosine triphosphate (GTP). In addition, the cycle provides the chemical precursors for certain amino acids as well as the reducing agent NADH that is used in numerous other biochemical reactions. Its central importance to many biochemical pathways suggests that it was one of the earliest established components of cellular metabolism and may have originated abiogenically.
+<<clade>> ::
+<<class>> ::
+<<clonal selection>> :: A scientific theory in immunology that explains the functions of cells ( lymphocytes) of the immune system in response to specific antigens invading the body. The theory has become the widely accepted model for how the immune system responds to infection and how certain types of B and T lymphocytes are selected for destruction of specific antigens. ^{[2]}
+<<cloning>> :: The process of producing individual organisms or molecules with identical or virtually identical DNA, either naturally or artificially. Many organisms, such as bacteria, insects, and plants, are capable of naturally producing clones through asexual reproduction. In biotechnology, cloning refers to the artificial creation of copies of cells, DNA fragments, or other biomolecules by various laboratory techniques.
+<<coat, coating>> :: In the context of virus capsid, may refer colloquially to the defined geometric structure of a capsid, or the membrane of an endosome containing an intact virion. The coat of a virus is used in descriptions for the general public. Related slang: uncoating.
+<<colony>> ::
+<<comparative biology>> :: The use of comparative methods to study the similarities and differences between two or more biological organisms (e.g. two organisms from the same time period but different taxa, or two organisms from the same taxon but different times in evolutionary history). The side-by-side comparison of morphological or molecular characteristics of different organisms is the basis from which biologists infer the organisms' genetic relatedness and their natural histories. It is a fundamental tool in many biological disciplines, including anatomy, physiology, paleontology, and phylogenetics.
+<<conservation biology>> :: The scientific study of nature and of Earth's biodiversity with the aim of protecting species, their habitats, and ecosystems from excessive rates of extinction and the erosion of biotic interactions.
+<<convergent evolution>> :: An evolutionary process by which species of different lineages independently develop similar characteristics, often to the point that the species appear to be more closely related than they actually are.
+<<countercurrent exchange>> :: The crossover of some property, usually heat or some component, between two fluids flowing in opposite directions to each other. The phenomenon occurs naturally but is also frequently mimicked in industry and engineering.
+<<crista>> :: A fold in the inner membrane of a mitochondrion.
+<<cryobiology>> :: The branch of biology that studies the effects of low temperatures on living things within Earth's cryosphere or in laboratory experiments.
+<<cytology>> :: See /cell biology/.
+<<cytoplasm>> :: All of the material within a cell and enclosed by the cell membrane, except for the nucleus. The cytoplasm consists mainly of water, the gel-like cytosol, various organelles, and free-floating granules of nutrients and other biomolecules.
+<<cytosine>> :: One of the four main nitrogenous bases found in both DNA and RNA, along with adenine, guanine, thymine, and uracil (in RNA); it is a pyrimidine derivative, with a heterocyclic aromatic ring and two substituents attached (an amine group at position 4 and a keto group at position 2).
+<<cytoskeleton>> :: A complex, dynamic network of interlinking protein filaments that extends from the cell nucleus to the cell membrane and which is present in the cytoplasm of all cells, including bacteria and archaea. ^{[3]} The cytoskeletal systems of different organisms are composed of similar proteins. In eukaryotes, the cytoskeletal matrix is a dynamic structure composed of three main proteins, which are capable of rapid growth or disassembly dependent on the cell's requirements. ^{[4]}
+<<Darwinian fitness>> :: The genetic contribution of an individual to the next generation's gene pool relative to the average for the population, usually measured by the number of offspring or close kin that survive to reproductive age.
+<<deciduous>> :: Deciduous means "falling off at maturity" or "tending to fall off", and it is typically used in botany in order to refer to trees or shrubs that lose their leaves seasonally (most commonly during autumn) and to the shedding of other plant structures such as petals after flowering or fruits when ripe.
+<<decomposition>> :: The process by which the organic compounds of deceased organisms are broken down into simpler organic or inorganic matter such as carbon dioxide, water, simple sugars, and mineral salts. These reactions occur naturally by both biotic means ( biodegradation, such as that practiced by many bacteria and fungi) and abiotic means (basic physical and chemical processes, such as hydrolysis). Decomposition recycles matter present in the biosphere, making it an essential part of the nutrient cycle. Organisms that facilitate decomposition are known as decomposers; the scientific study of decomposition is known as taphonomy.
+<<decomposer>> :: Any organism that facilitates the breakdown of dead or decaying organisms by carrying out the decomposition of complex biomolecules into simpler substances. Decomposers are heterotrophs which obtain energy and nutrition for their own growth and reproduction by recycling the chemical compounds contained in organic substrates. Microorganisms such as bacteria and fungi are the biosphere's chief decomposers, but invertebrates such as earthworms are also sometimes considered decomposers.
+<<dehydration reaction>> :: A chemical reaction that involves the loss of a water molecule from the reacting molecule.
+<<denaturation>> :: A process in which proteins or nucleic acids lose the quaternary, tertiary, and secondary structure which is present in their native state, when exposed to some external stress or chemical compound such as a strong acid or base, a concentrated inorganic salt, or an organic solvent.
+<<dendrite>> :: A short branched extension of a nerve cell, along which impulses received from other cells at synapses are transmitted to the cell body.
+<<denitrification>> :: The microbially facilitated process of nitrate reduction that ultimately produces molecular nitrogen (N _{2}) through a series of intermediate gaseous nitrogen oxide products. It is performed by a large group of heterotrophic facultative anaerobic bacteria and is a fundamental component of the nitrogen cycle.
+<<deoxyribonucleic acid>> (DNA) :: A nucleic acid polymer that serves as the fundamental hereditary material in all living organisms. Each DNA molecule is composed of long sequences of nucleotides, each of which includes one of four nitrogenous bases -- adenine (abbreviated A), cytosine (C), guanine (G), and thymine (T) -- attached to a sugar-phosphate complex which acts as a "backbone" for the long-chain polymer. DNA most commonly occurs in "double-stranded" form, i.e. as a pair of nucleotide polymers bound together by complementary base pairing.
+<<depolarization>> :: The process of reversing the charge across a cell membrane (such as that of a neuron), thereby causing an action potential. In depolarization, the inside of the membrane, which is normally negatively charged, becomes positive and the outside becomes negative. This is brought about by positively charged sodium ions rapidly passing into the axon.
+<<desmosome>> :: A cell structure specialized for cell-to-cell adhesion.
+<<developmental biology>> :: The branch of biology that studies the processes by which living organisms grow and develop over time. The field may also encompass the study of reproduction, regeneration, metamorphosis, and the growth and differentiation of stem cells in mature tissues.
+<<disease>> :: Any particular abnormal condition that negatively affects the structure or function of all or part of a living organism and that is not the result of any immediate external injury. Diseases are medical conditions that are often identifiable by specific signs and symptoms. They may be caused by external factors such as infectious pathogens or by internal dysfunctions such as immune deficiency or senescence.
+<<DNA>> :: See /deoxyribonucleic acid/.
+<<DNA replication>> :: The chemical duplication or copying of a DNA molecule; the process of producing two identical copies from one original DNA molecule, in which the double helix is unwound and each strand acts as a template for the next strand. Complementary nucleotide bases are matched to synthesize the new partner strands.
+<<DNA sequencing>> :: The process of determining the precise order of nucleotides within a DNA molecule.
+<<drug>> :: Any substance that causes a change in an organism's physiology or psychology when consumed. Drugs may be naturally occurring or artificially produced, and consumption may occur in a number of different ways. Drugs are typically distinguished from substances that provide nutritional support such as food.
+<<dimorphism>> The existence of a morphological distinction between organisms of the same species, such that individuals of that species occur in one of two distinct forms which differ in one or more characteristics, such as colour, size, shape, or any other phenotypic trait. Dimorphism based on sex -- e.g. male vs. female -- is common in sexually reproducing organisms such as plants and animals.
+<<dynein>> :: A motor protein in cells which converts the chemical energy contained in ATP into the mechanical energy of movement.
+<<ecological efficiency>> :: The efficiency with which energy is transferred from one trophic level to the next. It is determined by a combination of efficiencies relating to organismic resource acquisition and assimilation in an ecosystem.
+<<ecological pyramid>> :: A graphical representation of the biomass or bio-productivity generated at each trophic level in a given ecosystem.
+<<ecological succession>> :: The more or less predictable and orderly set of changes that occurs in the composition or structure of an ecological community over time.
+<<ecology>> :: The scientific analysis and study of interactions between organisms and their environment. It is an interdisciplinary field that combines concepts from biology, geography, and Earth science.
+<<ecophysiology>> :: A biological discipline that studies the adaptation of an organism's physiology to environmental conditions.
+<<ecosystem>> :: A community of living organisms in conjunction with the non-living components of their physical environment, interacting as a system.
+<<ecotype>> :: In evolutionary ecology, a genetically distinct geographic variety, population, or race within a species which is adapted to specific environmental conditions.
+<<ectoderm>> :: The outermost layer of cells or tissue of an embryo in early development, or the parts derived from this, which include the epidermis, nerve tissue, and nephridia.
+<<ectotherm>> :: An organism in which internal physiological sources of heat are of relatively small or quite negligible importance in controlling body temperature compared to ambient sources of heat. Ectotherms generally experience changes in body temperature that closely match changes in the temperature of their environment; colloquially, these organisms are often referred to as "cold-blooded". Contrast /endotherm/.
+<<effector>> :: A small molecule that selectively binds to a protein and regulates its biological activity. In this manner, effector molecules act as ligands that can increase or decrease enzyme activity, gene expression, or cell signaling.
+<<efferent>> Conducted or conducting outwards or away from something (for nerves, the central nervous system; for blood vessels, the organ supplied). Contrast /afferent/.
+<<egg>> :: The organic vessel containing the zygote in which an animal embryo develops until it can survive on its own, at which point the developing organism emerges from the egg in a process known as /hatching/.
+<<electrochemical gradient>> :: A gradient of electrochemical potential, usually for an ion that can move across a membrane. The gradient consists of two parts: the electrical potential and the difference in chemical concentration across the membrane.
+<<electron acceptor>> :: Any chemical entity that accepts electrons transferred to it from another chemical entity. It is an oxidizing agent that, by virtue of its accepting electrons, is itself reduced in the process. Contrast /electron donor/.
+<<electron carrier>> :: Any of various molecules that are capable of accepting one or two electrons from one molecule and donating them to another in the process of electron transport. As the electrons are transferred from one electron carrier to another, their energy level decreases, and energy is released.
+<<electron donor>> :: A chemical entity that donates electrons to another chemical entity. It is a reducing agent that, by virtue of its giving up its electrons, is itself oxidized in the process. Contrast /electron acceptor/.
+<<electron microscope>> :: A type of microscope that uses a beam of electrons to create an image of a sample or specimen. Electron microscopes are capable of much higher magnifications and have greater resolving power than conventional light microscopes, allowing them to see much smaller objects in finer detail.
+<<electron transport chain>> :: The process of oxidative phosphorylation, by which the NADH and succinate generated by the citric acid cycle are oxidized and electrons are transferred sequentially down a long series of proteins, ultimately to the enzyme ATP synthase, which uses the electrical energy to catalyze the synthesis of ATP by the addition of a phosphate group to ADP. The process takes place in the cell's mitochondria and is the primary means of energy generation in most eukaryotic organisms.
+<<embryo>> :: A developing stage of a multicellular organism.
+<<embryology>> :: The branch of biology that studies the development of gametes (sex cells), fertilization, and development of embryos and fetuses. Additionally, embryology involves the study of congenital disorders that occur before birth.
+<<endangered species>> :: Any species which is very likely to become extinct in the near future, either worldwide or in a particular area. Such species may be threatened by factors such as habitat loss, hunting, disease, and climate change, and most have a declining population or a very limited range.
+<<endemism>> :: The ecological state of an organism or species being unique to a defined geographic location, such as an island, nation, country, habitat type, or other defined zone. Organisms are said to be /endemic/ to a place if they are indigenous to it and found nowhere else.
+<<endergonic reaction>> :: A type of chemical reaction in which the standard change in free energy is positive, and energy is absorbed.
+<<endocrine gland>> :: A gland of the animalian endocrine system that secretes hormones directly into the blood rather than through a duct. In humans, the major glands of the endocrine system include the pineal gland, pituitary gland, pancreas, ovaries, testes, thyroid gland, parathyroid gland, hypothalamus, and adrenal glands.
+<<endocrine system>> :: The collection of glands that produce hormones which regulate metabolism, growth and development, tissue function, and a wide variety of other biological processes.
+<<endocytosis>> :: A form of active transport in which a cell transports molecules such as proteins into the cell's interior by engulfing them in an energy-consuming process.
+<<endoderm>> :: One of the three primary germ layers in the very early human embryo. The other two layers are the ectoderm (outside layer) and mesoderm (middle layer), with the endoderm being the innermost layer.
+<<endogenous>> :: (of a substance or process) Originating from within a system (such as an organism, tissue, or cell), as with endogenous cannabinoids and circadian rhythms. Contrast /exogenous/.
+<<endoplasmic reticulum>> :: A type of organelle found in eukaryotic cells that forms an interconnected network of flattened, membrane-enclosed sacs or tube-like structures known as /cisternae/.
+<<endosperm>> :: The tissue produced inside the seeds of most of the flowering plants following fertilization.
+<<endosymbiotic theory>> :: An evolutionary theory regarding the origin of eukaryotic cells from a hypothetical internal symbiosis between prokaryotic organisms, first articulated in 1905 and 1910 by the Russian botanist Konstantin Mereschkowski, and advanced and substantiated with microbiological evidence by Lynn Margulis in 1967.
+<<endotherm>> :: An organism that is capable of maintaining a consistent, metabolically favorable body temperature, largely by the recycling of heat released by its internal physiological functions, instead of by relying on ambient sources of heat. Endotherms are generally able to maintain a stable body temperature despite changes in the temperature of their environment; colloquially, these organisms are often referred to as "warm-blooded". Contrast /ectotherm/.
+<<entomology>> :: The scientific study of insects.
+<<environmental biology>> :: The branch of biology concerned with the relations between organisms and their environments.
+<<enzyme>> :: A protein that acts as a biological catalyst by accelerating chemical reactions. Metabolic pathways depend upon enzymes to catalyze their individual steps, and almost all metabolic processes require enzyme catalysis in order to occur at rates fast enough to sustain life.
+<<epidemiology>> :: The study and analysis of the patterns, causes, and effects of health and disease conditions in defined populations. It is the cornerstone of public health, and shapes policy decisions and evidence-based practice by identifying risk factors for disease and targets for preventive healthcare.
+<<epigenetics>> :: A sub-field of genetics that studies cellular and physiological phenotypic trait variations caused by external or environmental factors which affect how cells express genes, as opposed to those caused by changes in the DNA sequence.
+<<epiphyte>> :: An organism that grows on the surface of a plant and derives moisture and nutrients from the air, rain, marine environments, or from debris accumulating around it.
+<<essential nutrient>> :: A nutrient required for normal physiological function which cannot be synthesized by a particular organism, either at all or in sufficient quantities, and which therefore must be obtained from external sources such as food. In humans, a set of nine amino acids, two fatty acids, thirteen vitamins, and fifteen minerals are considered essential nutrients.
+<<estrogen>> :: The primary female sex hormone.
+<<ethology>> :: The scientific study of non-human animal behaviour (i.e. excluding human behaviour) and usually with a focus on behaviour under natural conditions, and viewing behaviour as an evolutionarily adaptive trait.
+<<eukaryote>> :: A type of organism consisting of cells which have a nucleus enclosed within a distinct nuclear membrane, unlike prokaryotes. Eukaryotes include all organisms except the bacteria and archaea (i.e. all plants, animals, fungi, and protists are eukaryotes).
+<<evolution>> :: The change in the heritable characteristics of populations of biological organisms over successive generations, which may occur by mutation, gene flow, natural selection, or random chance.
+<<evolutionary biology>> :: The subfield of biology that studies evolution and the evolutionary processes that produced the diversity of life on Earth from a hypothesized single common ancestor. These processes include the descent of species and the origin of new species.
+<<exocytosis>> :: A form of active transport and bulk transport in which a cell transports molecules out of the cell by expelling them through an energy-dependent process.
+<<exogenous>> :: (of a substance or process) Originating outside of or external to a system (such as an organism, tissue, or cell), as with drugs and many pathogens. Contrast /endogenous/.
+<<exponential growth>> :: It is exhibited when the rate of change of the value of a mathematical function is proportional to the function's current value, resulting in its value at any time being an exponential function of time.
+<<external fertilization>> :: A type of fertilization in which a sperm unites with an egg external to the body or bodies of the parent organisms. Contrast /internal fertilization/.
+<<extinction>> :: The termination of the existence of a particular kind of organism or a particular taxon, often a species, as a result of the death of the last individual of the taxon (though the capacity to breed and recover may have been lost before this point, rendering the taxon functionally extinct).
+<<extracellular>> Of or occurring in the space outside the plasma membrane of a cell. Contrast /intracellular/.
+<<extranuclear inheritance>> :: A transmission of genes that takes place outside the nucleus.
+<<facultative anaerobe>> :: An organism which is capable of producing energy through aerobic respiration and then switching to anaerobic respiration depending on the amounts of oxygen and fermentable material in the environment.
+<<family>> ::
+<<fermentation>> :: A metabolic process that consumes sugar in the absence of oxygen.
+<<fitness>> ::
+<<fitness landscape>> ::
+<<fertilization>> ::
+<<fetus>> :: An animal embryo after eight weeks of development.
+<<flagellum>> :: A lash-like appendage that protrudes from the cell body of certain bacterial and eukaryotic cells.
+<<flavin adenine dinucleotide>> (FAD) :: A redox cofactor, more specifically a prosthetic group of a protein, involved in different important enzymatic reactions in metabolism.
+<<food chain>> :: The chain of eating and getting nutrition which starts from a small herbivores animal and ends up at a big carnivorous organism.
+<<foramen>> :: An open hole that is present in extant or extinct amniotes. Foramina inside the body of animals typically allow muscles, nerves, arteries, veins, or other structures to connect one part of the body with another.
+<<founder effect>> :: A loss of genetic variation that takes places when a new population is established by a very small number of individuals from a larger population.
+<<fungi>> ::
+<<G protein>> :: A family of proteins that act as molecular switches inside cells, and are implicated in transmitting signals from a diversity of stimuli outside a cell to its interior.
+<<gamete>> ::
+<<gene>> :: Any segment of DNA that contains the information necessary to produce a functional RNA and/or protein product in a controlled manner. Genes are often considered the fundamental molecular units of heredity. The transmission of genes from a parent cell or organism to its offspring is the basis of the inheritance of phenotypic traits.
+<<gene pool>> :: A set of all genes, or genetic information, in any population, usually of a particular species.
+<<generation>>
+<<genetic code>> :: A set of rules used by living cells to translate information encoded within genetic material (DNA or mRNA sequences) into proteins.
+<<genetic drift>> :: An alteration in the frequency of an existing gene variant in a population due to random sampling of organisms.
+<<genetic variation>> :: Variations of genomes between members of species, or between groups of species thriving in different parts of the world as a result of genetic mutation. Genetic diversity in a population or species is a result of new gene combinations (e.g. crossing over of chromosomes), genetic mutations, genetic drift, etc.
+<<genetics>> :: The study of heredity.
+<<genome>> :: The entire set of genetic material contained within the chromosomes of an organism, organelle, or virus.
+<<genotype>> :: Part of the genetic makeup of a cell, and therefore of an organism or individual, which determines one of its characteristics (phenotype).
+<<genus>> ::
+<<gizzard>> :: An organ found in the digestive tract of some animals, including archosaurs (pterosaurs, crocodiles, alligators, and dinosaurs, including birds), earthworms, some gastropods, some fish, and some crustaceans.
+<<guanine>> :: One of the four main nucleobases found in the nucleic acids DNA and RNA, the others being adenine, cytosine, and thymine (uracil in RNA).
+<<habitat>> :: A place for animals, people, and plants and non-living things.
+<<habituation>> :: A form of learning in which an organism decreases or desists its responses to a stimulus after repeated or prolonged presentations.
+<<heredity>> :: The passing on of phenotypic traits from parents to their offspring, either through sexual or asexual reproduction. Offspring cells and organisms are said to /inherit/ the genetic information of their parents.
+<<hermaphrodite>> :: A sexually reproducing organism with both male and female reproductive organs.
+<<herpetology>> :: The branch of zoology that studies reptiles and amphibians.
+<<heterosis>> :: The improved or increased function of any biological quality in a hybrid offspring.
+<<heterotroph>> ::
+<<histology>> :: The study of the microscopic anatomy of cells and tissues of plants and animals.
+<<Hodgkin--Huxley model>> :: A mathematical model that describes how action potentials in neurons are initiated and propagated.
+<<hormone>> :: Any member of a class of signaling molecules produced by glands in multicellular organisms that are transported by the circulatory system to target distant organs to regulate physiology and behaviour.
+<<host>> :: Any living organism that harbors another living organism (known as a "guest" or symbiont), whether the guest is parasitic, mutualistic, or commensalist in its interactions with the host. The guest typically receives shelter and nourishment from the host.
+<<hybrid>> ::
+<<hydrocarbon>> :: An organic compound consisting entirely of hydrogen and carbon atoms. Hydrocarbons from which one hydrogen atom has been removed are functional groups called hydrocarbyls.
+<<ichthyology>> :: The branch of biology devoted to the study of fish, including bony fishes ( Osteichthyes), cartilaginous fish ( Chondrichthyes), and jawless fish ( Agnatha).
+<<immune response>> :: The immune response is how your body recognizes and defends itself against bacteria, viruses, and substances that appear foreign and harmful.
+<<immunity>> ::
+<<immunoglobulin>> :: Any of a class of glycoprotein molecules produced by plasma cells (white blood cells) which act as a critical part of the immune response by specifically recognizing and binding to particular antigens, such as bacteria or viruses, and aiding in their destruction. They are a major component of the group of immune defense molecules collectively called antibodies.
+<<infection>> :: The invasion of an organism's cells or tissues by a disease-causing pathogen, its growth and/or multiplication, and the reaction of the host organism to the infectious agent and the toxins it produces. The variety of biological pathogens capable of causing infections includes certain bacteria, viruses, fungi, protists, parasitic worms, and arthropods.
+<<insulin>> :: An anabolic peptide hormone produced in the pancreas which helps to regulate the metabolism of carbohydrates, fats, and protein by promoting the absorption of glucose from the blood into liver, fat, and skeletal muscle cells. Abnormal insulin activity is the cause of diabetes mellitus.
+<<integrative biology>> :: The various forms of cross-disciplinary and multitaxon research.
+<<interferon>> :: A group of signaling proteins made and released by host cells in response to the presence of several pathogens, such as viruses, bacteria, parasites, or tumor cells. In a typical scenario, a virus-infected cell will release interferons causing nearby cells to heighten their antiviral defenses.
+<<internal fertilization>> :: A type of fertilization which takes place inside the egg-producing individual.
+<<International System of Units>> :: (French: /Système international d'unités/; abbreviated SI) The modern standardized form of the metric system of units and measurements, and the system of measurement formally adopted for use in the physical and natural sciences.
+<<interphase>> ::
+<<intracellular>> Of or occurring inside or within the enclosed interior of a cell. Contrast /extracellular/.
+<<introduced species>> :: Any species living outside its native geographic range, and which has arrived there either by accidental or deliberate human activity. Such human-caused introduction of species to foreign environments is distinguished from biological colonization, by which species spread to new areas through "natural" means (i.e. without the involvement of humans).
+<<invertebrate>> :: A group of animals that have no backbone, unlike animals such as reptiles, amphibians, fish, birds, and mammals, which all have a backbone. Among the many extant invertebrate phyla are the Cnidaria, Mollusca, Annelida, Nematoda, and Arthropoda.
+<<ion>> :: An atom or molecule with a net electric charge due to the loss or gain of one or more electrons.
+<<ionic bond>> :: A type of chemical bond involving the complete transfer of valence electron(s) between two atoms. Such bonds typically occur between elements characterized as metals and nonmetals, and generate two oppositely charged ions: the metal loses electrons to become a positively charged cation, and the nonmetal accepts those electrons to become a negatively charged anion.
+<<isomer>> :: A molecule with the same chemical formula as another molecule, but with a different chemical structure. That is, isomers contain the same number of atoms of each element, but have different arrangements of their atoms.
+<<isotonic solution>> :: Refers to two solutions having the same osmotic pressure across a semipermeable membrane. This state allows for the free movement of water across the membrane without changing the concentration of solutes on either side.
+<<jejunum>> :: like gher vertebrates like mammals, birds, and reptiles. It is present between the duodenum and the ileum.
+<<kinase>> :: An enzyme that catalyzes the transfer of phosphate groups from high-energy, phosphate-donating molecules to specific substrates.
+<<kingdom>> ::
+<<Krebs cycle>> :: See /citric acid cycle/.
+<<larva>> :: /(pl.)/ *larvae*
+<<Law of Independent Assortment>> :: The principle, originally formulated by Gregor Mendel, stating that when two or more characteristics are inherited, individual hereditary factors assort independently during gamete production, giving different traits an equal opportunity of occurring together.
+<<leukocyte>> :: A colourless cell of the immune system which circulates in the blood and body fluids and is involved in counteracting foreign substances and disease. There are several types of leukocytes, all amoeboid cells with a nucleus, including lymphocytes, granulocytes, and monocytes.
+<<lichen>> ::
+<<life>> :: The characteristic or collection of characteristics that distinguishes physical entities that undergo biological processes (e.g. living organisms) from that those do not (e.g. non-living, inanimate matter), either because such processes have ceased or because they were not present in the first place. What constitutes "life" is notoriously difficult to define, and there is currently no consensus definition, though some popular criteria are that living things are composed of cells, have a life cycle, undergo metabolism, maintain homeostasis, adapt to environments, respond to stimuli, reproduce, and evolve. Biology is the scientific study of life and of living organisms.
+<<life cycle>> ::
+<<ligament>> :: The fibrous connective tissue that connects bones to other bones and is also known as /articular ligament/, /articular larua/, /fibrous ligament/, or /true ligament/.
+<<light-independent reactions>> :: See /Calvin cycle/.
+<<linked genes>> :: Any set of one or more genes which are sufficiently close together on the same chromosome that they are very unlikely to assort independently and therefore are usually inherited together.
+<<lipid>> :: A substance that is insoluble in water and soluble in alcohol, ether, and chloroform. Lipids are an important component of living cells. Together with carbohydrates and proteins, lipids are the main constituents of plant and animal cells. Cholesterol and triglycerides are lipids.
+<<lipoprotein>> :: A biochemical assembly that contains both proteins and lipids, bound to the proteins, which allow fats to move through the water inside and outside cells. The proteins serve to emulsify the lipid molecules.
+<<M phase>> :: Mitosis and cytokinesis together define the mitotic (M) phase of an animal cell cycle -- the division of the mother cell into two daughter cells, genetically identical to each other and to their parent cell.
+<<macroevolution>> :: Evolution on a scale of separated gene pools. Macroevolutionary studies focus on change that occurs at or above the level of species, in contrast with microevolution, which refers to smaller evolutionary changes (typically described as changes in allele frequencies) within a species or population.
+<<macromolecule>> :: A very large molecule, such as a protein, commonly created by polymerization of smaller subunits (monomers). They are typically composed of thousands or more atoms.
+<<macronutrient>> :: Nutrients needed in large amounts which provide calories or energy. Nutrients are substances needed for growth, metabolism, and for other body functions. There are three basic types of macronutrients: fats, proteins, and carbohydrates.
+<<macrophage>> :: A kind of swallowing cell, which means it functions by literally swallowing up other particles or smaller cells. Macrophages engulf and digest debris (such as dead cells) and foreign particles through the process of phagocytosis, so macrophages act like scavengers.
+<<mammalogy>> :: The branch of biology that studies mammals, a class of vertebrates with characteristics such as homeothermic metabolism, fur, four-chambered hearts, and complex nervous systems.
+<<marine biology>> :: The study of organisms in the ocean or other marine bodies of water. Given that in biology many phyla, families and genera have some species that live in the sea and others that live on land, marine biology classifies species based on the environment rather than on taxonomy.
+<<mast cell>> :: A cell filled with basophil granules, found in numbers in connective tissue and releasing histamine and other substances during inflammatory and allergic reactions.
+<<mating>> ::
+<<medulla>> :: The continuation of the spinal cord within the skull, forming the lowest part of the brainstem and containing control centres for the heart and lungs.
+<<meiosis>> :: A specialized type of cell division in which a dividing parent cell proceeds through two consecutive divisions, ultimately producing four genetically unique daughter cells in each of which the chromosome number is half of that in the original parent cell. This process is exclusive to cells of the sex organs in sexually reproducing eukaryotes, where it serves the purpose of generating gametes such as eggs, sperm, or spores.
+<<membrane potential>> :: When a nerve or muscle cell is at "rest", its membrane potential is called the resting membrane potential. In a typical neuron, this is about --70 millivolts (mV). The minus sign indicates that the inside of the cell is negative with respect to the surrounding extracellular fluid.
+<<messenger RNA>> :: A large family of RNA molecules that convey genetic information from DNA to the ribosome.
+<<metabolism>> ::
+<<metamorphosis>> ::
+<<metaphase>> :: The third phase of mitosis, in which duplicated genetic material carried in the nucleus of a parent cell is separated into two identical daughter cells. During metaphase, the cell's chromosomes align themselves in the middle of the cell through a type of cellular "tug of war".
+<<microbiology>> :: The study of microscopic organisms, such as bacteria, viruses, archaea, fungi and protozoa. This discipline includes fundamental research on the biochemistry, physiology, cell biology, ecology, evolution and clinical aspects of microorganisms, including the host response to these agents.
+<<microevolution>> :: The alteration in allele frequencies that occurs over time within a population.
+<<mitochondria>> ::
+<<mitosis>> :: In eukaryotic cells, the part of the cell cycle during which the division of the nucleus takes place and duplicated chromosomes are separated into two distinct nuclei. Mitosis is generally preceded by the "S" stage of interphase, when the cell's DNA is replicated, and followed by cytokinesis, when the cytoplasm and cell membrane are divided into two new daughter cells. It is similar to but distinct from binary fission and meiosis.
+<<molecule>> :: The smallest particle in a chemical element or compound that has the chemical properties of that element or compound. Molecules are made up of atoms that are held together by chemical bonds. These bonds form as a result of the sharing or exchange of electrons among atoms.
+<<molecular biology>> :: The branch of biology concerning biological activity at the molecular level. The field of molecular biology overlaps with biology and chemistry and in particular with genetics and biochemistry.
+<<molecular switch>> :: A molecule that can be reversibly changed between two or more stable states.
+<<monomer>> :: A molecule that "can undergo polymerization thereby contributing constitutional units to the essential structure of a macromolecule".
+<<morphology>> ::
+<<motile>> ::
+<<motor neuron>> :: A neuron whose cell body is situated in the motor cortex, brain stem, or the spinal cord, and whose axon (fiber) projects to the spinal cord or outside of the spinal cord to directly or indirectly control effector organs, mainly muscles and glands.
+<<mucous membrane>> :: A membrane that lines various cavities in the body and covers the surface of internal organs.
+<<multicellular>> :: Having or consisting of more than one cell, as opposed to being unicellular.
+<<mycology>> :: The branch of biology concerned with the study of fungi, including their genetic and biochemical properties, their taxonomy and their use to humans as a source for tinder, medicine, food, and entheogens, as well as their dangers, such as poisoning or infection.
+<<myofibril>> :: A basic rod-like unit of a muscle cell.
+<<myosin>> :: A superfamily of motor proteins best known for their roles in muscle contraction and in a wide range of other motility processes in eukaryotes.
+<<natural selection>> :: A process in nature in which organisms possessing certain genotypic characteristics that make them better adjusted to an environment tend to survive, reproduce, increase in number or frequency, and therefore, are able to transmit and perpetuate their essential genotypic qualities to succeeding generations.
+<<neurobiology>> :: The scientific study of the nervous system.
+<<neuron>> :: An electrically excitable cell that receives, processes, and transmits information through electrical and chemical signals.
+<<neurotransmitter>> :: An endogenous compound that enable neurotransmission.
+<<niche>> :: The role and position an organism or taxon fills within its environment; how it meets its needs for food and shelter, how it survives, and how it reproduces. A species' niche includes all of its interactions with the biotic and abiotic factors of its environment.
+<<nitrogen fixation>> :: The chemical process by which molecular nitrogen (N _{2}) in the air is converted into ammonia (NH _{3}) or related nitrogenous compounds, typically by specialized microorganisms in soil and aquatic ecosystems but also by certain non-biological processes. Despite comprising nearly 80% of the gas in the Earth's atmosphere, diatomic nitrogen is metabolically useless to all but a few microorganisms, known as diazotrophs. Nitrogen fixation is essential to all life on Earth because fixed inorganic nitrogenous compounds are required for the biosynthesis of all nitrogen-containing organic compounds, including amino acids and nucleic acids.
+<<nucleic acid>> :: The biopolymers, or small biomolecules, essential to all known forms of life .
+<<nucleic acid sequence>> :: A succession of letters that indicate the order of nucleotides forming alleles within a DNA or RNA molecule.
+<<nucleobase>> :: The nitrogen-containing biological compounds that form nucleosides, which in turn are components of nucleotides, with all of these monomers constituting the basic building blocks of nucleic acids.
+<<nucleoid>> :: An irregularly shaped region within the cell of a prokaryote that contains all or most of the genetic material, called the genophore.
+<<nucleolus>> :: The largest structure within the nucleus of eukaryotic cells.
+<<nucleotide>> :: An organic compound which serves as the fundamental monomer used in the construction of nucleic acid polymers, such as DNA and RNA, both of which are essential biomolecules within all living organisms.
+<<offspring>> ::
+<<order>> ::
+<<organ>> :: A collection of tissues joined in a structural unit to serve a common function.
+<<organism>> :: A contiguous living system.
+<<ornithology>> :: The branch of zoology that concerns the study of birds.
+<<osmosis>> :: The spontaneous net movement of solvent molecules through a semipermeable membrane into a region of higher solute concentration, in the direction that tends to equalize the solute concentrations on the two sides.
+<<paleontology>> :: The study of the history of life on Earth as reflected in the fossil record. Fossils are the remains or traces of organisms that lived in the geological past and have been preserved in the Earth's crust.
+<<parallel evolution>> :: The development of a similar trait in related, but distinct, species descending from the same ancestor, but from different clades.
+<<parasite>> ::
+<<parasitology>> :: The study of parasites, their hosts, and the relationship between them. As a biological discipline, the scope of parasitology is not determined by the organism or environment in question, but by their way of life.
+<<pathobiology>> :: The study or practice of pathology with greater emphasis on the biological than on the medical aspects.
+<<pathogen>> :: In the broadest sense, anything that can produce disease, though the term is most commonly used to refer specifically to an infectious microscopic organism such as a virus, bacterium, protozoan, or another microbial agent which causes disease for a host organism by invading the host's tissues.
+<<pathology>> :: A medical specialty that is concerned with the diagnosis of disease based on the laboratory analysis of bodily fluids such as blood and urine, as well as tissues, using the tools of chemistry, clinical microbiology, hematology, and molecular pathology.
+<<pH>> :: A numeric scale used to specify the acidity or basicity (alkalinity) of an aqueous solution. It is roughly the negative of the logarithm to base 10 of the concentration, measured in units of moles per liter, of hydrogen ions.
+<<pharmacology>> :: The science of drug action on biological systems. In its entirety, it embraces knowledge of the sources, chemical properties, biological effects, and therapeutic uses of drugs.
+<<phenotype>> :: The composite of an organism's observable features or traits, such as its morphology, development, biochemical or physiological properties, behavior, and products of behavior.
+<<pheromone>> :: A secreted or excreted chemical factor that triggers a social response in members of the same species. Pheromones are analogous to hormones acting outside the body of the secreting individual to impact the behavior of receiving individuals.
+<<phloem>> :: The conducting tissue in plants responsible for the conduction of food particles.
+<<photosynthesis>> :: The process by which nearly all plants and some algae and bacteria convert the energy of sunlight into chemical energy, which is used to synthesize carbohydrates such as sugars from carbon dioxide and water; these carbohydrates are stored as food, and the energy within them is later released to fuel metabolic activities. Organisms that perform photosynthesis are therefore autotrophs. Photosynthesis supplies the majority of the energy necessary for life on Earth.
+<<phylogeny>> ::
+<<phylum>> :: A taxonomic rank or level of classification below kingdom and above class; in botany, the term division is commonly used in place of phylum.
+<<physiology>> :: The branch of biology dealing with the functions and activities of living organisms and their parts, including all physical and chemical processes.
+<<phytochemistry>> :: The study of phytochemicals, which are chemicals derived from plants.
+<<phytopathology>> :: The science of diagnosing and managing plant diseases.
+<<piliferous>> Bearing hair
+<<placebo>> :: A substance or treatment of no intended therapeutic value.
+<<plant>> ::
+<<plasmolysis>> :: The process in which cells lose water in a hypertonic solution.
+<<pollination>> :: The transfer of pollen from a male part of a plant to a female part of a plant, enabling later fertilisation and the production of seeds. Pollen is most commonly transported by animals or by wind.
+<<polymer>> :: A large macromolecule composed of many repeated subunits.
+<<polymerase chain reaction>> (PCR) :: A technique used in molecular biology to amplify a single copy or a few copies of a segment of DNA across several orders of magnitude, generating thousands to millions of copies of a particular DNA sequence.
+<<polyploidy>> :: Having or containing more than two complete sets of chromosomes.
+<<population>> :: All the organisms of the same group or species that live in a particular geographical area and are capable of interbreeding.
+<<population biology>> :: The study of populations of organisms, especially the regulation of population size, life history traits such as clutch size, and extinction.
+<<population ecology>> :: A subfield of ecology that deals with the dynamics of species populations and how these populations interact with the environment. It is the study of how the population sizes of species change over time and space.
+<<predation>> :: A biological interaction in which a predator kills and eats its prey.
+<<predator>> ::
+<<prey>> ::
+<<primer>> :: A short strand of RNA or DNA that serves as a starting point for DNA synthesis.
+<<progeny>> Any genetic descendant or offspring.
+<<progesterone>> :: An endogenous steroid and progestogen sex hormone which plays a critical role in the menstrual cycle, pregnancy, and embryogenesis in humans and other animal species.
+<<prokaryote>> :: A type of organism which does not have a true nucleus.
+<<protein>> :: A polypeptide chain of amino acids. It is a body-building nutrient.
+<<protist>> ::
+<<psychobiology>> :: The application of the principles of biology to the study of physiological, genetic, and developmental mechanisms of behavior in humans and other animals.
+<<regeneration>> :: The process of renewal, restoration, and growth that makes genomes, cells, organisms, and ecosystems resilient to natural fluctuations or events that cause disturbance or damage. For example, many organisms are capable of regenerating tissues and even entire body parts if they are lost or destroyed.
+<<reproduction>> :: The biological process by which one or more new individual organisms (known as offspring) is produced from an existing parent organism. Reproduction is a defining characteristic of all life, and every individual organism exists as the result of a reproductive event. There are two general methods by which reproduction takes place: sexual or asexual.
+<<reproductive biology>> :: The branch of biology that studies the various types and mechanisms of reproduction used by living organisms, typically with special emphasis on cell division, fertility, endocrinology, and/or the tissues, organs, and systems involved in reproduction.
+<<ribonucleic acid>> (RNA) :: A nucleic acid polymer composed of a series of ribonucleotides which incorporate a set of four nucleobases: adenine (A), guanine (G), cytosine (C), and uracil (U). Closely related to DNA, RNA molecules serve in a wide variety of essential biological roles, including coding, decoding, regulating, and expressing genes, as well as functioning as signaling molecules.
+<<ribosome>> :: A complex molecular machine, found within all living cells, that serves as the site of biological protein synthesis.
+<<RNA>> :: See /ribonucleic acid/.
+<<RNA polymerase>> :: A member of a family of enzymes that are essential to life: they are found in all organisms and many viruses.
+<<sclerenchyma>> :: A type of tissue in which cells have thick lignified secondary walls and often die when mature.
+<<seed>> :: The embryo, enclosed in a protective outer covering, of certain types of plants.
+<<selective breeding>> :: See /artificial selection/.
+<<sessile>> :: 1.  Generally, lacking motility or means of self-locomotion; immobile or incapable of movement. Sessile organisms may move via external forces such as wind or water currents but are more often permanently fixed to a solid object such as a rock, soil, or another organism.
+<<sex>> ::
+<<sexual reproduction>> :: A type of reproduction in which cells from two parents unite to form the first cell of a new organism.
+<<sociality>> :: The degree to which individuals in an animal population tend to associate in social groups and form cooperative societies.
+<<sociobiology>> :: A branch of biology that is based on the hypothesis that social behavior has resulted from evolution and which attempts to explain and examine social behavior within that context.
+<<soil biology>> :: The study of microbial and faunal activity and ecology in soil.
+<<species>> :: The basic unit of biological classification and the narrowest of the canonical taxonomic ranks, as well as a unit of biodiversity. Species are traditionally distinguished on the basis of reproductive compatibility, though achieving a satisfactory definition that is universally applicable to all life has proven difficult, since many organisms classified as distinct "species" are capable of interbreeding with different (albeit closely related) species, generating hybrids.
+<<speciation>> :: The evolutionary process by which populations of organisms evolve to become distinct species, typically via reproductive isolation.
+<<sperm>> ::
+<<spore>> ::
+<<stem cell>> :: A type of undifferentiated or partially undifferentiated cell that is capable of differentiating into other types of specialized cells and also capable of dividing to produce more of the same type of stem cell. Stem cells are the earliest type of cell in a cell lineage.
+<<steroid>> :: A biologically active organic compound with four rings arranged in a specific molecular configuration.
+<<strain>> :: A genetic variant, subtype, or culture identified as a distinct taxonomic subdivision within a species. The term is most commonly used to identify particular types of bacteria and viruses.
+<<structural biology>> :: The branch of molecular biology, biochemistry, and biophysics concerned with the molecular structure of biological macromolecules, especially proteins and nucleic acids, how they acquire the structures they have, and how alterations in their structures affect their function.
+<<symbiogenesis>> :: See /endosymbiotic theory/.
+<<symbiont>> :: Any organism involved in any type of symbiosis with another organism, either of the same or a different species.
+<<symbiosis>> :: Any close and long-term interaction between two different biological organisms, regardless of the nature or degree of the effect on either organism. Examples include mutualism, commensalism, and parasitism.
+<<synthetic biology>> :: An interdisciplinary branch of biology and engineering combining various disciplines from within these domains, including biotechnology, evolutionary biology, molecular biology, systems biology, biophysics, computer engineering, and genetic engineering.
+<<systematics>> :: The scientific study of biodiversity. It is concerned with the discovering and naming of new species of organisms (nomenclature) and arranging these taxa into classification schemes ( taxonomy). A large part of modern systematics is concerned with understanding the evolutionary relationships between various taxa ( phylogenetics) using methods of comparative biology (e.g. physiology, behavior, biochemistry, morphology, genetics) and statistical analysis.
+<<systems biology>> :: A branch of biology concerned with the computational and mathematical analysis of complex biological systems. It is an interdisciplinary field which combines elements of systems theory and applied mathematics with theoretical biology, with a primary aim to discover and model the emergent properties of interacting biological entities.
+<<T cell>> :: A type of lymphocyte that plays a central role in cell-mediated immunity.
+<<taxon>> :: A group of one or more populations of an organism or organisms used by taxonomists to classify organisms into discrete, convenient, and identifiable units.
+<<taxonomy>> ::
+<<telophase>> ::
+<<testosterone>> :: The primary male sex hormone and an anabolic steroid.
+<<thymine>> :: One of the four nucleobases used in the nucleic acid DNA (but not in RNA). It is represented in DNA sequences by the letter /T/.
+<<tissue>> ::
+<<trait>> ::
+<<transcription>> :: The first step of gene expression, in which a particular segment of DNA is copied into RNA by the enzyme RNA polymerase. Both RNA and DNA are nucleic acids, which use complementary base pairs of nucleotides as a common language.
+<<translation>> :: The process by which ribosomes in the cytoplasm or endoplasmic reticulum synthesize proteins following the transcription of DNA to RNA in the cell's nucleus.
+<<trophic level>> :: The position an organism occupies in a food chain.
+<<tumor>> ::
+<<uncoating>> :: The decomposition of a viral capsid. An informal and simplified description of the way a virus infectious material enters the cell, usually appearing in light science material for the general public.
+<<unicellular>> :: Having or consisting of only one cell, as opposed to being multicellular.
+<<uracil>> :: One of the four nucleobases in the nucleic acid of RNA that are represented by the letters A, G, C and U.
+<<urea>> :: An organic compound with chemical formula CO(NH2)2.
+<<urine>> :: A liquid byproduct of metabolism in humans and in many animals.
+<<uterus>> :: A major female hormone-responsive secondary sex organ of the reproductive system in humans and most other mammals.
+<<vacuole>> :: A membrane-bound organelle which is present in all plant and fungal cells and some protist, animal, and bacterial cells.
+<<vasodilation>> :: The widening of blood vessels.
+<<vector>> ::
+<<vegetative reproduction>> :: Any type of asexual reproduction performed by an organism which is nonetheless capable of sexual reproduction. The term is used primarily for plants.
+<<vertebrate>> ::
+<<vesicle>> :: A small structure within or sometimes external to a cell, consisting of fluid enclosed by a lipid bilayer.
+<<vestigiality>> :: The retention during the process of evolution of genetically determined structures or attributes that have lost some or all of their ancestral function in a given species.
+<<virology>> :: The branch of biology that studies viruses.
+<<virus>> :: A submicroscopic, infectious, parasitic particle of genetic material contained in a protein coat and which replicates only inside the living cell of a host organism.
+<<white blood cell>> :: See /leukocyte/.
+<<whole genome sequencing>> :: The process of determining the complete DNA sequence of a particular organism's entire genome at a single time.
+<<wood>> :: The inner layer of the stems of woody plants such as trees and shrubs, composed of xylem.
+<<xanthophyll>> :: A yellow-colored photosynthetic pigment.
+<<xylem>> :: A type of plant tissue responsible for the transport of water from roots to aerial parts of the plant.
+<<yolk>> :: The nutrient-bearing portion of the egg whose primary function is to supply food for the development of the embryo.
+<<zoology>> :: The branch of biology that studies the animal kingdom, including the structure, embryology, evolution, classification, habits, and geographical distribution of all animals, both living and extinct, and how they interact with their ecosystems.
+<<zooplankton>> :: A type of heterotrophic (sometimes detritivorous) plankton, as opposed to phytoplankton, which instead obtain energy from photosynthesis. Individual zooplankton are usually microscopic, but some (such as jellyfish) are larger and visible to the naked eye.
+<<zygospore>> :: A diploid reproductive stage in the life cycle of many fungi and protists.
+<<zygote>> :: A eukaryotic cell formed by a fertilization event between two gametes.

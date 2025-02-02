@@ -1,0 +1,685 @@
+681 matches for "- .* :: .*$" in buffer:
+Glossary of chemistry terms
+https://en.wikipedia.org/wiki/Glossary_of_chemistry_terms
+
+<<absolute zero>> :: A theoretical condition concerning a system at the lowest limit of the thermodynamic temperature scale, or zero kelvins, at which the system does not emit or absorb energy (i.e. all atoms are at rest). By extrapolating the ideal gas law, the internationally agreed-upon value for absolute zero has been determined as −273.15 °C (−459.67 °F; 0.00 K).
+<<absorbance>> ::
+<<absorption>> :: 1.  The physical or chemical process by which a substance in one state becomes incorporated into and retained by another substance of a different state. Absorption differs from adsorption in that the first substance permeates the entire bulk of the second substance, rather than just adhering to the surface.
+<<abundance>> ::
+<<accuracy>> :: How close a measured value is to the actual or true value. Compare /precision/.
+<<acetyl>> ::
+<<achiral>> :: (of a molecule) Having the geometric symmetry of being indistinguishable from its own mirror image; lacking chirality.
+<<acid>> :: 1.  ( Brønsted--Lowry acid) Any chemical species or molecular entity that acts as a proton donor when reacting with another species, because it loses at least one proton ( H ^{+}\\
+<<acid anhydride>> :: Any chemical compound derived by the removal of water molecules from an acid. Contrast /base anhydride/.
+<<acid dissociation constant>> ( /K/ _{a}) :: A quantitative measure of the strength of an acid in solution expressed as an equilibrium constant for a chemical dissociation reaction in the context of acid-base reactions. It is often given as its base-10 cologarithm, p /K/ _{a}.
+<<acid--base extraction>> :: A chemical reaction in which chemical species are separated from other acids and bases.
+<<acid--base reaction>> ::
+<<acidic>> ::
+<<actinides>> :: The periodic series of metallic elements with atomic numbers 89 to 103, from actinium through lawrencium.
+<<activated complex>> :: A structure that forms because of a collision between molecules while new bonds are formed.
+<<activation energy>> :: The minimum energy which must be available to a chemical system with potential reactants in order to result in a particular chemical reaction.
+<<activity series>> :: See /reactivity series/.
+<<actual yield>> ::
+<<acyclic>> :: Containing only linear structures of atoms (particularly in hydrocarbons).
+<<addition reaction>> :: In organic chemistry, a type of chemical reaction in which two or more molecules combine to make a larger one.
+<<adduct>> :: A distinct chemical species that is the sole product of an addition reaction between two other distinct reactant species, in which all of the atoms comprising the reactants are retained in the single product. Changes in connectivity may occur, but there is no loss of any of the original atoms and no gain of atoms that are not present in the reactant molecules. Stoichiometries other than 1:1 are also possible, e.g. a bis-adduct (2:1). ^{[2]}
+<<adhesion>> :: The tendency of dissimilar particles or surfaces to cling to one another as a result of intermolecular forces. Contrast /cohesion/.
+<<adsorption>> :: The chemical adhesion of atoms, ions, or molecules of one substance (either a gas, liquid, or dissolved solid) to the surface of another substance, resulting in a film of the first substance being weakly bonded to the interface between the two substances. Adsorption differs from absorption in that it is exclusively a surface phenomenon, while absorption involves entire volumes of materials.
+<<aeration>> :: The mixing of air into a liquid or a solid.
+<<alcohol>> :: Any organic compound consisting of at least one hydroxyl group attached to a saturated carbon atom. Alcohols have the general formula R--OH.
+<<aldehyde>> :: A functional group and a class of organic compounds consisting of a carbonyl group attached to a hydrogen atom and any other R-group. Aldehydes have the general formula R--C(H)=O.
+<<aliphatic>> ::
+<<alkali metal>> :: Any of the metallic elements belonging to Group 1 of the periodic table: lithium (Li), sodium (Na), potassium (K), rubidium (Rb), caesium (Cs), and francium (Fr).
+<<alkaline>> ::
+<<alkaline earth metal>> :: Any of the metallic elements belonging to Group 2 of the periodic table: beryllium (Be), magnesium (Mg), calcium (Ca), strontium (Sr), barium (Ba), and radium (Ra).
+<<alkane>> :: Any fully saturated acyclic hydrocarbon, i.e. one in which all carbon--carbon bonds are single bonds.
+<<alkene>> :: Any unsaturated hydrocarbon containing at least one carbon--carbon double bond.
+<<alkoxy>> ::
+<<alkyl>> :: The substituent form of an alkane, i.e. any alkane missing a hydrogen atom. The term may be used to refer to many different functional groups, e.g. a methyl or ethyl group.
+<<alkyne>> :: Any unsaturated hydrocarbon containing at least one carbon--carbon triple bond.
+<<allomer>> :: A substance that differs in chemical composition but has the same crystalline structure as another substance.
+<<allotrope>> :: Any of a variety of different structural forms of the same element, as with carbon, whose allotropes include diamonds, graphite, and fullerene.
+<<alloy>> :: A mixture of metals or of a metal and another element which in combination exhibit a metallic bonding character. Common examples include bronze, brass, and pewter.
+<<amalgam>> :: Any alloy of mercury with another metal.
+<<ambident>> :: A molecule or functional group that has two alternative and interacting reaction sites, to either of which a bond may be made during a reaction.
+<<amide>> ::
+<<ammoniacal>> :: Describing a solution in which the solvent is aqueous ammonia. ^{[3]}
+<<amorphous solid>> ::
+<<amount of substance>> :: The number of discrete particles (such as molecules, atoms, ions, electrons, or any other atomic-scale entity) in a given sample of matter, divided by the Avogadro constant. The SI unit for amount of substance is the mole (mol).
+<<amphipathic>> :: (of a molecule) Composed of both hydrophilic and hydrophobic groups; e.g. wetting agents and membrane lipids. ^{[4]}
+<<amphoteric>> :: (of a chemical species) Tending to behave both as an acid and as a base, depending upon the medium in which the species is situated; e.g. sulfuric acid (H _{2}SO _{4}) is a strong acid in water but behaves more like a base in superacids.
+<<amyl>> :: A common non-systematic name for a pentyl group.
+<<analyte>> :: The specific substance or chemical constituent that is of interest in a chemical analysis.
+<<analytical chemistry>> :: The branch of chemistry which studies and makes use of instruments and methods to separate, quantify, and identify chemical substances, both by classical wet chemistry techniques such as precipitation, extraction, distillation, and observational analysis, and by modern instrumental techniques such as chromatography, spectroscopy, and electrochemistry.
+<<ångström>> (Å) :: A non- SI, metric unit of length equal to 10 ^{−10} metre, i.e.
+<<anhydrous>> :: Having or containing no water molecules, referring especially to water of hydration. ^{[4]} Because many processes in chemistry are impeded in the presence of water, it is often of critical importance that water-free reagents and techniques are used. Anhydrous compounds tend to gradually absorb water from the atmosphere. Contrast /hydrous/.
+<<anion>> :: A negatively charged ion; i.e. an atom or molecule with a net negative electric charge caused by an excess of electrons compared to protons.
+<<anode>> :: 1.  An electrode through which the conventional electric current (the flow of positive charges) enters into a polarized electrical circuit.
+<<anomer>> :: Either of a pair of cyclic hemiacetal or hemiketal saccharides that are epimers of each other, differing at only one carbon stereocenter, specifically the carbon that bears the aldehyde or ketone functional group in the compound's acyclic, open-chain configuration, known as the *anomeric carbon*.
+<<aprotic>> ::
+<<aqua regia>> :: A liquid mixture of nitric acid (HNO _{3}) and hydrochloric acid (HCl), optimally in a molar ratio of 1:3, so named by historical alchemists because it is capable of dissolving the noble metals gold and platinum.
+<<aquation>> :: The process by which water molecules solvate or form coordination complexes with ions. ^{[3]}
+<<aqueous solution>> :: A solution in which the solvent is water. It is denoted in chemical equations by appending /(aq)/ to a chemical formula.
+<<aromatic>> ::
+<<aromaticity>> :: A chemical property of conjugated rings of atoms, such as benzene, which results in unusually high stability. Such rings are said to be aromatic.
+<<Arrhenius acid>> Any substance that, when dissolved in water, increases the concentration of  H ^{+}\
+<<Arrhenius base>> Any substance that, when dissolved in [[#water][water, increases the concentration of  OH ^{−}\
+<<arrow pushing>> ::
+<<aryl>> :: Any [[#functional_group][functional group or substituent derived from an aromatic ring, such as phenyl or naphthyl. The symbol /Ar/ is often used as a placeholder for a generic aryl group in structural diagrams.
+<<atmolysis>> The separation of a mixture of gases by exploiting their different rates of diffusion, usually by allowing the gases to diffuse through the walls of a porous partition or membrane. ^{[3]}
+<<atom>> :: A chemical element in its smallest form, made up of protons and neutrons within the nucleus and electrons circling the nucleus.
+<<atomic mass>> :: The mass of an atom, typically expressed in daltons and nearly equivalent to the mass number multiplied by one dalton.
+<<atomic mass unit>> :: See /dalton/.
+<<atomic number>> ( /Z/) :: The number of protons found in the nucleus of an atom of a given chemical element. It is identical to the charge number of the nucleus and is used in the periodic table to uniquely identify each chemical element.
+<<atomic orbital>> :: Any region in which one or more electrons may be found in an individual atom (as opposed to that within a molecule).
+<<atomic radius>> ::
+<<atomic weight>> :: See /relative atomic mass/.
+<<atomicity>> :: The total number of atoms present in a single molecule of a given substance; e.g. ozone (O _{3}) has an atomicity of 3, while benzene (C _{6}H _{6}) has an atomicity of 12. ^{[3]}
+<<autoignition temperature>> :: The lowest temperature at which a given substance will spontaneously ignite in a normal atmosphere without an external source of ignition such as a flame or spark, i.e. when the ambient temperature is sufficiently high to provide the activation energy needed for combustion. Substances which spontaneously ignite at naturally occurring temperatures are termed /pyrophoric/. Compare /ignition temperature/.
+<<Avogadro constant>> ( /N/ _{A}) :: The ratio of the number of discrete constituent particles (such as molecules, atoms, or ions) to the amount of a substance, defined as exactly 6.022 140 76 ×10 ^{23} mol ^{−1}.
+<<Avogadro number>> :: The number of discrete constituent particles in one mole of a substance, defined as exactly 6.02214076 ×10 ^{ 23}. This dimensionless number differs from the Avogadro constant in that it has no unit.
+<<Avogadro's law>> ::
+<<azeotrope>> :: A mixture of liquids whose chemical composition is unchanged by distillation.
+<<balance>> ::
+<<barometer>> :: A device used to measure atmospheric pressure.
+<<base>> :: A substance that accepts a proton and has a pH above 7.0. A common example is sodium hydroxide (NaOH).
+<<base anhydride>> :: An oxide of a group I or II metal element.
+<<basic>> ::
+<<basicity>> ::
+<<battery>> ::
+<<beaker>> :: A cylindrical vessel or container with a flat bottom, most commonly a type of glassware, widely used in laboratories for a variety of purposes, such as preparing, holding, containing, collecting, or volumetrically measuring chemicals, samples, or solutions, or as a chamber in which a chemical reaction occurs. Beakers are distinguished from flasks by having straight rather than sloping sides; most beakers also have a small spout in the rim to aid pouring.
+<<Beer--Lambert law>> ::
+<<biochemistry>> :: The study of the chemistry of biological systems and organisms.
+<<Bohr model>> :: A model of the general structure of the atom proposed by Niels Bohr and Ernest Rutherford in 1913, featuring a small, dense nucleus of positively charged particles surrounded by orbiting electrons, which are attracted to the nucleus by electrostatic forces. This interpretation replaced several earlier hypotheses and quickly became the prevailing standard model for depicting atomic structure.
+<<boiling>> :: See /vaporization/.
+<<boiling flask>> ::
+<<boiling point>> :: The temperature at which a substance changes state from a liquid to a gas (or vapor). It depends on pressure and is usually specified for a given substance under standard conditions.
+<<boiling-point elevation>> :: The process by which a substance's boiling point is elevated by adding another substance.
+<<bond>> :: Any persistent attraction between atoms, ions, or molecules that enables the formation of chemical compounds. Bonds are created as a result of a wide variety of electrochemical forces, whose strengths can vary considerably; they are broken when these forces are overcome by other forces. The types, strengths, and quantities of bonds holding together chemical substances dictate the structure and bulk properties of matter.
+<<bond angle>> ::
+<<Boyle's law>> :: For a given mass of gas at constant temperature, the volume varies inversely with the pressure.
+<<Bragg's law>> ::
+<<Brønsted--Lowry acid>> :: Any chemical species that readily donates a proton.
+<<Brønsted--Lowry acid--base reaction>> ::
+<<Brønsted--Lowry base>> :: Any chemical species that readily accepts a proton.
+<<Brownian motion>> ::
+<<Büchner flask>> ::
+<<buffered solution>> :: An aqueous solution consisting of a weak acid and its conjugate base or a weak base and its conjugate acid that resists changes in pH when strong acids or bases are added.
+<<bumping>> :: A phenomenon in which a homogeneous liquid raised to its boiling point becomes superheated and, upon nucleation, rapidly boils to the gas phase, resulting in a violent expulsion of the liquid from the container; in extreme cases, the container itself may shatter. Frequent stirring, the use of an appropriate container, and the use of boiling chips can help prevent bumping.
+<<bung>> ::
+<<burette>> :: Glassware used to dispense specific amounts of liquid when precision is necessary (e.g. during titrations and resource-dependent reactions).
+<<butyl>> ::
+<<calorific value>> :: A measure of the heat per unit mass produced by complete combustion of a given substance, usually expressed in megajoules per kilogram (MJ/kg) or in kilojoules per gram (kJ/g). ^{[3]}
+<<calorimeter>> :: Any of various devices used to measure thermal properties (i.e. heat), such as calorific values or heats of chemical reactions. ^{[3]}
+<<calx>> :: A metal oxide formed by heating an ore in air. ^{[3]}
+<<carbanion>> ::
+<<carbide>> :: A class of interstitial compounds composed of carbon bonded to a particular metal (usually a large-radius transition metal) in a densely packed crystal lattice, where the carbon atoms occupy interstices between the metal atoms; e.g. tungsten carbide (WC).
+<<carbocation>> ::
+<<carbon>> ::
+<<carbonic acid>> ::
+<<carbonyl>> :: 1.  A functional group composed of a carbon atom double-bonded to an oxygen atom, with the formula $\text{C} = \text{O}$ . Carbonyl groups are common to many classes of organic compounds and are also a part of many larger functional groups.
+<<carboxyl>> ::
+<<carboxylic acid>> :: A class of organic acids and a functional group consisting of a carboxyl group attached to a substituent group. Carboxylic acids have the general formula $\text{R} - \text{COOH}$  (also written as $\text{R} - \text{CO}_{2}^{}\text{H}$ ), where $\text{R}$  can be an alkyl, alkenyl, aryl, or any other carbon-containing substituent.
+<<CAS Registry Number>> (CAS RN) :: A unique numerical identifier assigned by the Chemical Abstracts Service (CAS) to every chemical substance described in the open scientific literature, including more than 182 million organic and inorganic compounds, minerals, isotopes, alloys, polymers, and mixtures, as well as so-called "UVCBs" (substances of unknown or variable composition, complex reaction products, or biological origin). CAS numbers are an internationally recognized standard used by scientists, industries, and regulatory bodies. ^{[5]}
+<<catalyst>> :: Any element or compound that facilitates an increase in the speed of a chemical reaction but which is not consumed or destroyed during the reaction. It is considered both a reactant and a product of the reaction.
+<<cathode>> :: An electrode from which the conventional electric current (the flow of positive charges) exits a polarized electrical circuit. Positively charged cations always move toward the cathode, though the cathode's polarity can be positive or negative depending on the type of electrical device and how it is being operated. Contrast /anode/.
+<<cation>> :: A positively charged ion.
+<<cell potential>> :: The force in a galvanic cell that pulls electrons through a reducing agent to an oxidizing agent.
+<<centrifugation>> :: A laboratory technique which involves the application of centrifugal force to separate particles from a solution according to their size, shape, and density. Larger and/or denser substances migrate away from the axis of a centrifuge, while smaller and/or less dense substances migrate towards the axis.
+<<centrifuge>> :: A device used to separate substances based on size, shape, and density by centrifugation, or the rotation of vessels containing the substances around a centred axis at extremely high velocities.
+<<chain reaction>> ::
+<<charge number>> :: A quantized value of electric charge calculated as the electric charge in coulombs divided by the elementary-charge constant, or /z/ = /q// /e/. Charge numbers for ions are denoted in superscript (e.g. Na ^{+} indicates a sodium ion with a charge number of positive one). Atomic numbers are charge numbers of atomic nuclei.
+<<Charles's law>> :: When the pressure on a sample of a dry gas is held constant, the Kelvin temperature is directly proportional to its volume.
+<<chelating agent>> ::
+<<chelation>> :: A type of bonding involving the formation of two separate coordinate covalent bonds between a polydentate ligand and a single central metal ion. The ligand is usually an organic compound called a /chelant/ or /chelating agent/.
+<<chemical>> :: See /chemical species/ and /chemical compound/.
+<<chemical bond>> See /bond/.
+<<chemical composition>> :: The identity and relative number of the elements that make up a chemical compound, which can often be expressed with a chemical formula.
+<<chemical compound>> See /compound/.
+<<chemical decomposition>> :: The breakdown of a single particle or entity (such as a molecule or reactive intermediate) into two or more fragments, or a chemical reaction in which two or more products are formed from a single reactant. Contrast /chemical synthesis/.
+<<chemical element>> See /element/.
+<<chemical formula>> :: Any of various means of concisely displaying information about the chemical composition of a compound or molecule using letters, numbers, and/or typographical symbols. Chemical formulas, such as empirical and molecular formulas, can only indicate the identities and numerical proportions of the atoms in a compound and are therefore more limited in descriptive power than chemical names and structural formulas.
+<<chemical law>> :: A law of nature relevant to chemistry, such as the law of conservation of mass.
+<<chemical nomenclature>> ::
+<<chemical physics>> ::
+<<chemical process>> :: 1.  Any method or means of changing one or more chemicals or chemical compounds in any way, either naturally or artificially, spontaneously or by the actions of external forces.
+<<chemical reaction>> :: The change of one or more substances into one or more different substances.
+<<chemical species>> :: A chemical substance or ensemble of substances composed of chemically identical molecular entities which can explore the same set of molecular energy levels on a characteristic or delineated time scale.
+<<chemical substance>> :: A form of matter that has constant chemical composition and characteristic properties and which cannot be separated into simpler components by purely physical methods (i.e. without breaking chemical bonds). It is often called a /pure substance/ to distinguish it from a mixture.
+<<chemical synthesis>> :: The artificial execution of one or more chemical reactions in order to obtain one or more products. In modern laboratory contexts, specific chemical syntheses are both reliable and reproducible.
+<<chemistry>> :: The scientific discipline that studies chemical substances, compounds, and molecules composed of atoms of various chemical elements, as well as their compositions, structures, properties, behaviors, and the changes they undergo during reactions with other substances.
+<<chirality>> :: A property of asymmetry in which a molecule or ion is distinguishable from its mirror image such that it cannot be superposed upon it by any combination of geometric rotations, translations, or some conformational changes. ^{[6]} ^{[7]} Such a molecule or ion is said to be /chiral/, and exists in two forms, known as enantiomers, which are stereoisomers of each other; these forms are distinguished as either "right-handed" or "left-handed" by their absolute configuration or some other criterion. Several different types of asymmetry can give rise to chirality, most commonly when molecules possess stereogenic elements such as one or more stereocenters ( central chirality), a stereogenic axis ( axial chirality), or a stereogenic plane ( planar chirality); additionally, the inherent curvature of a molecule can cause it to possess inherent chirality.
+<<chromatography>> ::
+<<chromometer>> See /colorimeter/.
+<<cis--trans isomerism>> ::
+<<closed system>> ::
+<<cluster>> ::
+<<cohesion>> :: The tendency of similar particles or surfaces to cling to one another as a result of intermolecular forces. Contrast /adhesion/.
+<<colligative property>> :: Any property of a solution that depends upon the ratio of the number of solute particles to the number of solvent particles in the solution, and not on the nature of the chemical species present. Examples include osmotic pressure, freezing-point depression, and boiling-point elevation.
+<<colloid>> :: A mixture of evenly dispersed substances, such as many milks.
+<<color standard>> A liquid solution of known chemical composition and concentration, and hence of known and standardized color, used as a reference in the optical analysis of samples of unknown strength. ^{[4]}
+<<color test>> The quantitative analysis of a substance by comparing the intensity of the color produced when the substance is exposed to a reagent with a standard color produced similarly in a solution of known strength. ^{[4]}
+<<colorimeter>> :: Any instrument used for color measurement based on optical comparison with standard colors, ^{[2]} particularly a device used in colorimetry that measures the absorbance of specific wavelengths of light by a given solution in order to determine the concentration of a known solute in the solution, by application of the principle that solute concentration is directly proportional to absorbance.
+<<combustion>> :: An exothermic reaction between an oxidant and a fuel that produces large amounts of heat and often light.
+<<Commission on Isotopic Abundances and Atomic Weights>> (CIAAW) ::
+<<complex>> :: A molecular entity formed by loose association between two or more component molecular entities ( ionic or uncharged), or the corresponding chemical species. The bonding between the components is normally weaker than in a covalent bond. ^{[2]} See also /coordination complex/.
+<<compound>> :: A substance that is made up of two or more chemically bonded elements.
+<<Compton rule>> An empirical law of physical chemistry which states that the heat of fusion of a given element multiplied by its atomic weight and then divided by its melting point in kelvin is always equal to approximately 2. ^{[4]}
+<<concatemer>> ::
+<<concentration>> :: The quantity or abundance of a constituent of a mixture per unit quantity of the mixture; e.g. the amount of a dissolved solute per unit volume of the solution, a measure known as molarity. Several different definitions of concentration are widely used in chemistry, including mass concentration, volume concentration, and molar concentration.
+<<condensation>> :: The phase transition of a substance from a gas to a liquid.
+<<condosity>> :: A comparative measurement of the electrical conductivity of a solution defined as the molar concentration of a sodium chloride (NaCl) solution that has the same specific electrical conductance as the solution under test. It is typically expressed in units of moles per litre (or per some other unit of volume).
+<<conduction>> ::
+<<conductivity>> See /electrical conductivity/ and /thermal conductivity/.
+<<conductor>> :: Any object or material that allows the flow of an electric current in one or more directions. Contrast /insulator/.
+<<conformation>> :: The spatial arrangement of atoms affording distinction between stereoisomers which can be interconverted by rotations about formally single bonds.
+<<conjugate acid>> ::
+<<conjugate base>> ::
+<<conjugated system>> :: {{{content}}}
+<<constitutional isomer>> :: See /structural isomer/.
+<<convection>> ::
+<<cooling curve>> ::
+<<coordinate chemistry>>
+<<coordinate covalent bond>> See /dipolar bond/.
+<<coordination complex>> :: A chemical compound consisting of a central atom or ion, usually metallic and known as the /coordination center/, bonded to a surrounding array of other groups of atoms, e.g. molecules or ions, which are known as /ligands/ or /complexing agents/. Many metal-containing compounds, especially those of the transition metals, are coordination complexes. See also /complex/.
+<<corrosion>> :: An irreversible interfacial chemical reaction of a material, especially a metal, with its environment, which results in consumption of the material or dissolution into the material of an external component of the environment.
+<<coulomb>> (C) :: The SI unit of electric charge, defined as the charge transported by a constant current of one ampere in one second.
+<<counterion>> :: The ion that is the counterpart to an oppositely charged ion in a dissociated ionic species; the cation that pairs with a given anion, or vice versa. For example, Na ^{+}\\
+<<covalent bond>> :: A bond that involves the sharing of electron pairs between atoms. The stable balance of attractive and repulsive forces that occurs between atoms when they share electrons is known as /covalent bonding/.
+<<critical point>> :: The end point of a phase equilibrium curve or pressure- temperature curve at which conditions are such that phase boundaries vanish and a substance's different phases, such as liquid and vapor, can coexist. The critical point is defined by the intersection of a critical temperature, /T/ _{c}, and a critical pressure, /p/ _{c}; above this temperature and pressure, all distinction between phases disappears and the substance becomes a supercritical fluid.
+<<crucible>> :: A ceramic or metal dish or other vessel in which substances can be melted or otherwise subjected to very high temperatures. ^{[3]}
+<<crystal>> :: A solid whose constituent particles (such as atoms, ions, or molecules) are arranged in an orderly periodic microscopic structure, forming a lattice that extends in all directions. Such materials are often described as /crystalline/.
+<<crystallization>> ::
+<<crystallization point>> :: See /freezing point/.
+<<crystallography>> :: The branch of chemistry concerned with determining the arrangement of atoms within crystalline solids.
+<<cuvette>> :: A type of glassware used in spectroscopic experiments. It is usually made of plastic, glass, or quartz and should be as clean and clear as possible.
+<<cyclic>> ::
+<<dalton>> (Da) :: A unit of mass defined as 1⁄ 12 of the mass of a free unexcited atom of carbon-12 at rest. It is approximately equal to the mass of one nucleon.
+<<Dalton's law of partial pressures>> :: An empirical law which states that in a mixture of non-reacting gases, the total pressure exerted by all of the gases combined is equal to the sum of the partial pressures exerted by each gas individually.
+<<d-block>> ::
+<<dative bond>> See /dipolar bond/.
+<<debye>> (D) :: A non-SI unit of measurement of electric dipole moment, defined as 10 ^{ −18} statcoulomb-centimetres. See also /electric dipole moment/.
+<<deionization>> :: The removal of ions from a solution by any method. In the case of water, this typically refers to mineral ions such as sodium, iron, and calcium.
+<<deliquescence>> :: A substance's affinity for water, often characterized as its tendency to absorb moisture from the atmosphere to form aqueous solutions. Most strongly deliquescent substances are salts, such as calcium chloride and potassium carbonate.
+<<delocalized electron>> :: Any electron in a molecule, ion, or solid metal that is not associated with an individual atom or covalent bond. The term may refer to electrons involved in resonance in conjugated systems or aromatic compounds; to free electrons which facilitate electrical conductivity; or to electrons within delocalized molecular orbitals encompassing several adjacent atoms.
+<<density>> :: An intensive property of a substance defined as mass per unit volume and expressed by the equation /d/ = /m// /V/.
+<<denticity>> :: The number of donor groups in a single ligand that bind to a central atom in a coordination complex.
+<<dependent variable>> ::
+<<deposition>> :: The settling of particles within a solution or mixture.
+<<depression of freezing point>> See /freezing-point depression/.
+<<desiccant>> :: A hygroscopic substance used to induce or sustain a state of dryness or /desiccation/ (i.e. the absence of moisture) in its vicinity by abstracting water molecules from other substances. Desiccants come in many different forms and work by many different principles, ranging from simple absorption to the chemical bonding of water molecules.
+<<desiccation>> ::
+<<deuterium>> ::
+<<deuteron>> ::
+<<Dewar flask>> :: See /vacuum flask/.
+<<diastereomer>> ::
+<<diatomic>> :: Composed of two atoms, of the same or different elements. Contrast /monatomic/ and /polyatomic/.
+<<diatomic molecule>> :: Any molecule composed of only two atoms, of the same or different elements.
+<<diffusion>> :: The net movement of atoms or molecules from a region of higher concentration to a region of lower concentration. Diffusion is driven by a gradient in chemical potential of the diffusing species and depends on the random walk of particles; hence it results in mixing or mass transport without required directed bulk motion.
+<<dilatant>> :: A substance with the ability to increase in volume when its shape is changed. ^{[4]}
+<<dilution>>
+<<dimer>> :: An oligomer consisting of two monomers joined by chemical bonds that may variably be strong or weak, covalent or intermolecular. A /homodimer/ consists of two identical molecules; a /heterodimer/ consists of two different molecules.
+<<dipolar bond>> :: A type of covalent bond formed by the coordination of two or more electrically neutral moieties, the combination of which results in a charge-separated molecule or coordination complex, in which two electrons deriving from the same atom are shared between the donor atom and an acceptor atom, creating an internal two-center molecular dipole moment. ^{[2]}
+<<dipole>> :: The electric or magnetic separation of electric charge into a pair of charges of equal magnitude but opposite sign, one positively charged and one negatively charged, separated by some typically small distance.
+<<dipole moment>> See /electric dipole moment/, /magnetic dipole moment/, /molecular dipole moment/, /bond dipole moment/, /electron electric dipole moment/, /electron magnetic dipole moment/, and /nuclear magnetic moment/.
+<<dispersion>> :: A system in which particles of one material are distributed within a continuous phase of another material; the two phases may be in the same or different states of matter. Dispersions of particles sufficiently large for sedimentation are called suspensions, while those of smaller particles are called colloids or solutions.
+<<dissociation>> :: Any process by which a polyatomic molecule or molecular entity (e.g. an ionic compound or coordination complex), or an aggregate of molecular entities, separates or splits into two or more molecules, atoms, ions, radicals, or other constituents, usually in a reversible manner. Examples include unimolecular heterolysis and homolysis, the dissolution of salts, and acid dissociation. Contrast /association/.
+<<dissolution>> :: The interaction of a solvent with the molecules or ions of a solute, involving bond formation, hydrogen bonding, and van der Waals forces.
+<<distillation>> :: The process of separating the component substances of a liquid mixture by exploiting differences in the relative volatility of the mixture's components through selective boiling and subsequent condensation. The apparatus used to distill a substance is called a /still/, and the re-condensed substance yielded by the process is called the /distillate/.
+<<double bond>> :: A bond involving the covalent sharing of two pairs of electrons.
+<<double decomposition>> ::
+<<double displacement>> ::
+<<double salt>> :: 1.  A salt composed of more than one different cation or anion, or which upon hydrolysis forms two different cations and anions.
+<<double-replacement reaction>>
+<<dropping point>> :: The temperature at which a grease changes from a semi- solid to a liquid state under standardized conditions, ^{[4]} i.e. the upper limit at which the grease retains its structure, though not necessarily the maximum temperature at which it can be used.
+<<dry box>> :: A chamber or container in which the interior is maintained at very low humidity, often by filling it with argon or with air lacking carbon dioxide, in order to provide an inert atmosphere in which manipulation of very reactive chemicals or moisture-sensitive procedures can be carried out in the laboratory. ^{[4]}
+<<drying agent>> See /desiccant/.
+<<ductility>> :: A measure of a material's ability to undergo significant plastic deformation before rupturing, typically expressed as percent elongation or percent area reduction from a tensile test and popularly characterized by the material's ability to be stretched into a wire.
+<<dystectic mixture>> A mixture of two or more substances which has the highest melting point of all possible mixtures of these substances. ^{[4]} Contrast /eutectic mixture/.
+<<earth metal>> See /alkaline earth metal/.
+<<effective molecular diameter>> The physical extent of the electron cloud surrounding a molecule of a particular gas, as calculated in any of several ways and usually expressed in nanometres or ångströms. ^{[4]}
+<<effervescence>> :: The escape of gas from an aqueous solution without the application of heat, and the bubbling, foaming, or fizzing that results; e.g. the release of carbon dioxide from carbonated water.
+<<electric charge>> :: A measured property ( coulombs) that determines electromagnetic interaction.
+<<electric dipole moment>> :: A measure of the separation of positive and negative electric charges within an electrical system, i.e. a measure of the system's overall electrical polarity. The SI unit for measuring electric dipole moment is the coulomb-metre (C⋅m), but the debye (D), a non-SI unit, is also widely used in chemistry and atomic physics.
+<<electrical conductivity>> ::
+<<electrical resistivity>> ::
+<<electricity>> ::
+<<electride>> :: An ionic compound for which the anion is an electron.
+<<electrochemical cell>> :: A device capable of either generating electrical energy from chemical reactions, in which case it is known as a galvanic or voltaic cell, or using electrical energy to cause chemical reactions, in which case it is known as an electrolytic cell. For example, a battery contains one or more galvanic cells, each of which consists of two electrodes arranged such that an oxidation--reduction reaction produces an electromotive force.
+<<electrochemistry>> :: A branch of physical chemistry concerned with the relationship between electrical potential difference and identifiable chemical change, as understood through either the chemical reactions accompanying the passage of an electric current or the potential difference that results from a particular chemical reaction.
+<<electrolyte>> :: A solution that conducts a certain amount of electric current and can be split categorically into weak and strong electrolytes.
+<<electromagnetic radiation>> :: A type of wave that can go through vacuums as well as material and is classified as a self-propagating wave.
+<<electromagnetic spectrum>> ::
+<<electromagnetism>> :: Fields with an electric charge and electrical properties that change the way that particles move and interact.
+<<electromotive force>> (emf) ::
+<<electron>> :: A type of subatomic particle with a net charge that is negative. Contrast /positron/.
+<<electron acceptor>> ::
+<<electron capture>> :: A type of nuclear transformation by which the proton-rich nucleus of an electrically neutral atom absorbs or 'captures' an electron from one of its own inner shells, often those closest to the nucleus, which provokes a reaction that results in a nuclear proton changing into a neutron accompanied by the simultaneous emission of an electron neutrino. ^{[2]}
+<<electron configuration>> :: The distribution of the electrons of an atom or molecule within atomic or molecular orbitals. An extensive system of notation is used to concisely and uniquely display information about the electron configuration of each atomic species. Knowledge of the specific arrangements of electrons in different atoms is useful for understanding chemical bonds and the organization of the periodic table of the elements.
+<<electron deficiency>> ::
+<<electron donor>> ::
+<<electron electric dipole moment>> ( d _{e}) :: An intrinsic property of an electron such that its potential energy is linearly related to the strength of its electric field; a measure of the distribution of an electron's negative charge within the electric field it creates. See also /electric dipole moment/.
+<<electron magnetic dipole moment>> :: The magnetic moment of an electron, caused by the intrinsic properties of its spin and electric charge, equal to approximately −9.284764 ×10 ^{ −24} joules per tesla.
+<<electron neutrino>> ::
+<<electron pair>> :: Two electrons which occupy the same molecular orbital but have opposite spins. Electron pairs form chemical bonds or occur as lone pairs of valence electrons; it is also possible for electrons to occur individually as unpaired electrons.
+<<electron shell>> :: An orbital around the nucleus of an atom which contains a fixed number of electrons (usually two or eight).
+<<electronegativity>> ( /χ/) :: A chemical property that describes the tendency of an atom to attract a shared pair of electrons (or electron density) towards itself. An atom's electronegativity is affected both by its nuclear charge (which is proportional to the number of protons in its nucleus) and the number and location of the electrons present in its atomic shells (which influences the distance of the nucleus from the valence electrons). The higher an atom or substituent's electronegativity, the more it attracts electrons towards itself. As it is usually calculated, electronegativity is not a property of an atom alone but rather of an atom within a molecule; it therefore varies with an element's chemical environment, though it is generally considered a transferable property.
+<<electron-volt>> (eV) ::
+<<electrophile>> :: Any atom or molecule which can accept an electron pair. Most electrophiles carry a net positive charge, include an atom carrying a partial positive charge, or include a neutral atom that does not have a complete octet of electrons, and therefore they attract electron-rich regions of other species; an electrophile with vacant orbitals can accept an electron pair donated by a nucleophile, creating a chemical bond between the two species. Because they accept electrons, electrophiles are Lewis acids by definition.
+<<electrosynthesis>> ::
+<<element>> :: A species of atoms having the same number of protons in their atomic nuclei and hence the same atomic number. Chemical elements constitute all of the ordinary matter in the universe; 118 elements have been identified and are organized by their various chemical properties in the periodic table of the elements.
+<<elementary reaction>> :: Any chemical reaction in which one or more chemical species react directly to form products in a single reaction step and with a single transition state, i.e. without any intermediates. Contrast /stepwise reaction/.
+<<elution>> :: The process of extracting one material from another by washing with a solvent. Elution works by running a solution containing an analyte past an adsorbent matrix designed to selectively bind the analyte molecules, and subsequently washing the adsorbent/analyte complex with a solvent, known as an /eluent/. The solvent molecules displace the analyte by binding to the adsorbent in its place, allowing the analyte, now part of the /eluate/, to be carried out of the complex and into a collector for analysis.
+<<empirical formula>> :: The simplest whole-number ratio of the atoms of each element present in a chemical compound.
+<<emulsion>> :: A type of colloid in which small particles of one liquid are dispersed in another liquid; e.g. a dispersion of water in an oil, or of an oil in water. Emulsions are often stabilized by the addition of a substance, known as an /emulsifier/, that has both lyophilic and lyophobic parts in its molecules. ^{[3]}
+<<enantiomer>> ::
+<<enantiomorph>> ::
+<<endothermic process>> ::
+<<energy>> :: A system's ability to do work.
+<<enplethy>> :: See /amount of substance/.
+<<enthalpy>> :: A measure of the total internal energy of a thermodynamic system, usually symbolized by /H/.
+<<enthalpy of fusion>> ::
+<<entropy>> :: The amount of energy that is not available for work in a closed thermodynamic system, usually symbolized by /S/.
+<<environmental chemistry>> ::
+<<enzyme>> :: A biological protein catalyst that speeds up a chemical reaction.
+<<epimer>> ::
+<<Eppendorf tube>> A generalized and trademarked name used to refer to a microcentrifuge tube.
+<<equation of state>> ::
+<<equilibrium>> :: The condition of a system in which all competing influences are balanced. Chemical equilibrium is the state in which the concentrations of the reactants and products in a reacting system have stopped changing in time.
+<<equimolar>> Having an equal number of moles, or solutions of equal molar concentration.
+<<Erlenmeyer flask>> ::
+<<ester>> :: A class of organic and inorganic compounds derived from the reaction of an acid with an alcohol, in which at least one hydroxyl group (--OH) is replaced by an alkoxy group (--O--). Esters have the general formula RCO _{2}R′, where R and R' represent any alkyl or aryl group.
+<<ether>> :: A class of organic compounds and a functional group containing an oxygen atom connected to two alkyl or aryl groups, which may be the same or different. Ethers have the general formula R--O--R′, where R and R′ represent the alkyl or aryl groups.
+<<ethyl>> ::
+<<eutectic mixture>> :: A solid solution consisting of two or more substances which collectively have the lowest melting point of any possible mixture of these components. ^{[3]}
+<<evaporation>> ::
+<<exothermic process>> ::
+<<extensive property>> :: A physical quantity whose value is proportional to the size of the system it describes or to the quantity of matter in the system. Examples include mass, volume, enthalpy, and entropy. Contrast /intensive property/.
+<<extraction>> :: 1.  A separation process in which a component is separated from its mixture by selective solubility. ^{[3]} See also /partition/.
+<<extrinsic property>> ::
+<<family>> See /group/.
+<<Faraday constant>> ( /F/) :: A unit of electric charge widely used in electrochemistry equal to the negative of the molar charge (electric charge per mole) of electrons. It is equal to approximately 96,500  coulombs per mole ( /F/ =  96 485.332 12... C/mol).
+<<Faraday's laws of electrolysis>> :: A set of two laws pertaining to electrolysis which hold that: a) the mass of a substance altered at an electrode during electrolysis is directly proportional to the quantity of electricity transferred at that electrode; and b) the mass of an elemental material altered at an electrode is directly proportional to the element's equivalent weight.
+<<f-block>> ::
+<<Fick's laws of diffusion>> ::
+<<filtration>> :: Any physical, biological, or chemical operation that separates large particles (often solid matter) from smaller particles (often a fluid) by passing the mixture through a complex lattice structure through which only particles of a sufficiently small size can pass, called a /filter/. The fluid and small particles which successfully pass through the filter are called the /filtrate/.
+<<fire point>> :: The lowest temperature at which the vapors above a volatile material will continue to burn for at least five seconds after ignition by an open flame of standard dimension. ^{[8]} The fire point should not be confused with the flash point, a slightly lower temperature at which a substance will ignite briefly but at which vapor is not produced at a rate sufficient for sustained combustion.
+<<first-order reaction>> ::
+<<flash point>> :: The lowest temperature at which the vapors above a volatile material will ignite if given an ignition source. At the flash point, the application of an open flame causes only a momentary "flash" rather than sustained combustion, for which the ambient temperature is still too low. The flash point should not be confused with the fire point, which occurs at a slightly higher temperature, nor with the kindling point, which is higher still.
+<<flask>> :: A vessel or container, most commonly a type of glassware, widely used in laboratories for a variety of purposes, such as preparing, holding, containing, collecting, or volumetrically measuring chemicals, samples, or solutions, or as a chamber in which a chemical reaction occurs. Flasks come in a number of shapes and sizes but are typically characterized by a wider vessel "body" and one or more narrower tubular sections with an opening at the top.
+<<flocculation>> :: The process by which the dispersed particles in a colloid come out of suspension to aggregate into larger clumps known as /floc/ or /flake/, either spontaneously or due to the addition of a clarifying agent. The term is often used to refer to a reversible aggregation in which the forces holding the particles together are weak and the colloid can be re-dispersed by agitation. ^{[3]}
+<<formal charge>> (FC) :: The electric charge assigned to an atom in a molecule, assuming that all electrons in all bonds are shared equally between atoms, regardless of each atom's relative electronegativity. The formal charge of any atom that is part of a molecule can be calculated by the equation $FC = V - N - \frac{B}{2}\ $ , where $V$  is the number of valence electrons of the neutral atom in its ground state; $N$  is the number of valence electrons of the atom which are not participating in bonds in the molecule; and $B$  is the number of electrons shared in bonds with other atoms in the molecule.
+<<formula weight>> (FW) :: A synonym for molar mass and molecular weight, frequently used for non-molecular compounds such as ionic salts.
+<<fraction>> ::
+<<fractional distillation>> :: The fractionation of a mixture of liquids into its component parts, or fractions, by the process of distillation, typically by using a long vertical column attached to the distillation vessel and filled with glass beads. The mixture is heated to a temperature at which one or more of the component compounds will vaporize; the vapor rises up the column until it condenses and runs back into the vessel, creating a temperature and volatility gradient and permitting various fractions to be drawn off at different points along the length of the column. ^{[3]} Common in industrial chemistry, the technique is sensitive enough to separate compounds which have boiling points that differ by less than 25 °C (45 °F) from each other at standard pressure.
+<<fractionation>> :: A separation process in which a particular quantity of a mixture is divided during a phase transition into a number of smaller quantities, known as fractions, for which the chemical composition varies according to a gradient. Fractionation exploits subtle differences in some specific property (e.g. mass, boiling point, solubility, etc.) between the mixture's component compounds, making it possible to isolate more than two components of a mixture at the same time. There are many varieties of fractionation employed in many branches of science and technology.
+<<free radical>> :: See /radical/.
+<<freeze-drying>> :: See /lyophilization/.
+<<freezing>> :: The phase transition of a substance from a liquid to a solid.
+<<freezing point>> :: The temperature at which a substance changes state from a liquid to a solid. Because freezing is the reverse of melting, the freezing point of a substance is identical to its melting point, but by convention only the melting point is referred to as a characteristic property of a substance.
+<<freezing-point depression>> ::
+<<frequency>> :: {{{content}}}
+<<functional group>> ::
+<<galvanic cell>> :: A type of battery made up of electrochemicals with two different metals connected by a salt bridge.
+<<gas>> :: One of the four fundamental states of matter, characterized by high-energy particles which fill their container but have no definite shape or volume.
+<<gas chromatography>> :: A type of chromatography commonly used in analytical chemistry to isolate and analyze chemical compounds that can be vaporized without decomposition. Gas chromatography is often used to test the purity of substances, to identify unknown substances, and to measure the relative amounts of the different components of mixtures.
+<<gauche>> :: In alkane stereochemistry, a structural conformation involving a torsion angle of ±60°, or a synclinal alignment of functional groups attached to adjacent atoms. ^{[2]}
+<<Gay-Lussac's law>> :: A chemical law used for each of the two relationships derived by French chemist Joseph Louis Gay-Lussac and which concern the properties of gases, though the name is more usually applied to his law of combining volumes.
+<<geochemistry>> :: The study of the chemistry and chemical composition of the Earth and geological processes.
+<<Gibbs energy>> :: A value that indicates the spontaneity of a reaction. Usually symbolized as /G/.
+<<glass>> ::
+<<glycol>> :: Any of a class of aliphatic dihydric alcohols in which the two hydroxy groups are bonded to two different carbon atoms, which are usually but not necessarily adjacent to each other; e.g. ethylene glycol ( HOCH ^{}\\
+<<gram>> (g) ::
+<<gram-atom>> :: A former term for a mole.
+<<Grignard reaction>> ::
+<<ground glass joint>> :: An apparatus designed to quickly and easily fit two pieces of leak-tight glassware together, featuring ground glass surfaces and typically a custom-made conical taper.
+<<ground state>> :: The lowest possible energy state for a given quantum mechanical system, at which the Gibbs energy is actually or theoretically minimized. Whatever energy remains in the system in its ground state is called the zero-point energy. ^{[2]} Contrast /excited state/.
+<<group>> :: A vertical column of the periodic table of the elements and the elements that share it. Contrast /period/.
+<<hadron>> :: A subatomic particle of a type including the baryons and mesons that can take part in the strong interaction.
+<<halogen>> :: Any of the five non-metallic elements of Group 17 of the periodic table: fluorine (F), chlorine (Cl), bromine (Br), iodine (I), and astatine (At).
+<<hard acid>> :: A Lewis acid with an electron-accepting centre that is only weakly polarizable. Hard acid species also tend to have high charge states and relatively small atomic nuclei, in contrast to soft acids. ^{[2]}
+<<hard water>> :: Water that has very high mineral content, generally formed when water percolates through deposits rich in calcium, magnesium, and certain other metal cations.
+<<heat>> :: Energy transferred from one system to another by thermal interaction.
+<<heat of fusion>> :: See /enthalpy of fusion/.
+<<heat of vaporization>> :: See /enthalpy of vaporization/.
+<<heavy water>> ::
+<<Henry's law>> ::
+<<Hess' law of constant heat summation>> :: A law of physical chemistry which states that the total enthalpy change during the course of a chemical reaction is the same whether the reaction is completed in one step or in multiple steps.
+<<Hund's rules>> ::
+<<hydrate>> :: Any substance that contains water or its constituent elements, or any compound formed by the addition of water or its elements to another molecule.
+<<hydration reaction>> ::
+<<hydride>> ::
+<<hydrocarbon>> ::
+<<hydrogen>> ::
+<<hydrogen bond>> :: A form of electrostatic interaction between an electronegative atom and a hydrogen atom bound to a second electronegative atom. Hydrogen bonding is unique because the small size of the hydrogen atoms permits proximity of the interacting electrical charges, and may occur as an intermolecular or intramolecular force.
+<<hydrogenation>> :: Any chemical reaction between molecular hydrogen ( H ^{}\\
+<<hydrolysis>> :: The cleavage of a chemical bond by the addition of water.
+<<hydrous>> :: Having or containing water molecules, referring especially to water of hydration. Contrast /anhydrous/.
+<<hydroxide>> :: A diatomic anion consisting of a hydrogen atom covalently bonded to an oxygen atom, having an overall negative charge, with the chemical formula OH ^{−}\\
+<<hydroxy>> ::
+<<hygroscopy>> ::
+<<ideal gas>> :: A hypothetical gas composed of many randomly moving point particles that do not participate in any interparticle interactions, thereby making it mathematically convenient to describe and predict their behavior as state variables change. The ideal gas concept is useful because it obeys the ideal gas law and can be analyzed within the framework of statistical mechanics.
+<<ideal gas constant>> :: The proportionality constant in the ideal gas law, defined as 0.08206 L· atm/( K· mol).
+<<ideal gas law>> :: The equation of state of a hypothetical ideal gas, which states that the volume of such a gas is proportional to the amount of gas and its Kelvin temperature, and inversely proportional to its pressure. The ideal gas law combines Boyle's law, Charles's law, Gay-Lussac's law, and Avogadro's law into a single equation, conventionally formulated as $PV = nRT$ , where $R$  is the ideal gas constant. The relationships between the state variables described in this equation are a good approximation of the behavior of many gases under a wide range of conditions, though there are some limitations.
+<<ideal solution>> :: A solution for which the gas phase exhibits thermodynamic properties analogous to those of a mixture of ideal gases.
+<<independent variable>> ::
+<<indicator>> :: A special compound added to a solution that changes color depending on the acidity of the solution. Different indicators have different colors and are effective within different pH ranges.
+<<induced radioactivity>> :: Radioactivity caused by bombarding a stable isotope with elementary particles, forming an unstable, radioactive isotope.
+<<inert>> ::
+<<inorganic compound>> :: Any chemical compound that does not contain carbon, though there are exceptions. Contrast /organic compound/.
+<<inorganic chemistry>> :: The branch of chemistry concerning the chemical properties and reactions of inorganic compounds. Contrast /organic chemistry/.
+<<insolubility>> :: The inability of a substance (the solute) to form a solution by being dissolved in another substance (the solvent); the opposite of solubility.
+<<inspissation>> :: The process of thickening a liquid by any method of dehydration, especially evaporation. ^{[4]}
+<<insulator>> :: Any material that resists the flow of an electric current. Contrast /conductor/.
+<<intensive property>> :: A physical quantity whose value does not depend on the size of the system or the quantity of matter for which it is measured. Examples include density, temperature, and pressure. Contrast /extensive property/.
+<<interface>> :: The boundary between two spatial regions occupied by different matter, especially by matter in different phases or physical states. See also /surface/ and /phase boundary/.
+<<intermetallic>> :: A type of alloy that forms an ordered solid-state compound between two or more metallic elements. Intermetallics are generally hard and brittle, and have useful mechanical properties at high temperatures.
+<<intermolecular force>> :: Any force that mediates interaction between molecules, e.g. electromagnetic forces of attraction or repulsion, hydrogen bonding, and the van der Waals force, all of which act between the atoms of one molecule and the atoms or ions of nearby molecules. Intermolecular forces are weak compared to intramolecular forces such as covalent bonds, which hold individual molecules together.
+<<International System of Units>> (SI) ::
+<<International Union of Pure and Applied Chemistry>> (IUPAC) :: An international federation of chemists that is recognized as the world authority in developing standards for chemical nomenclature and other methodologies in chemistry.
+<<interstitial compound>> :: A compound composed of a transition metal bonded to either hydrogen, boron, carbon, or nitrogen, whose crystal structure consists of closely packed metal ions with the non-metal atoms located in the interstices. ^{[4]}
+<<intramolecular force>> ::
+<<intrinsic property>> ::
+<<ion>> :: A molecule that has gained or lost one or more electrons from its neutral state and therefore possesses a negative or positive electric charge.
+<<ionic bond>> :: An electrostatic attraction between oppositely charged ions.
+<<ionic strength>> :: A measure of the concentration of ions in a solution, usually expressed in terms of molarity (mol/L solution) or molality (mol/kg solvent). ^{[9]}
+<<ionization>> :: The breaking up of a chemical compound into separate ions.
+<<isoelectronicity>> :: The phenomenon of two or more chemical species ( atoms, molecules, ions, etc.) being composed of different elements but having the same number of valence electrons and the same structural arrangement (i.e. the same number of atoms with the same connectivity). Isoelectronic species typically show useful consistency and predictability in their chemical properties.
+<<isomerization>> ::
+<<isomers>> :: Ions or molecules with identical chemical formulas but distinct structures or spatial arrangements. Isomers do not necessarily share similar properties. The two main types of isomers are structural isomers and stereoisomers.
+<<isotope>> :: A variant of a particular chemical element which differs in the number of neutrons present in the nucleus. All isotopes of a given element have the same number of protons in each atom.
+<<joule>> (J) :: The SI unit of energy (symbol: J). One joule is defined as one newton- metre.
+<<kelvin>> (K) :: The SI unit of temperature (symbol: K). The Kelvin scale is an absolute thermodynamic temperature scale that uses absolute zero as its null point.
+<<keto acid>> :: Any organic compound that can be classified as both a ketone and a carboxylic acid, by virtue of containing a keto group and a carboxyl group. ^{[4]}
+<<ketone>> :: A class of organic compounds and a functional group composed of a carbonyl group between two carbon atoms. Ketones have the general formula R _{2}C=O, where R can be any carbon-containing substituent.
+<<kindling point>> :: See /autoignition temperature/.
+<<kinetics>> :: A subfield of chemistry specializing in reaction rates.
+<<kinetic energy>> :: The energy of an object due to its motion.
+<<lability>> ::
+<<lanthanides>> :: The periodic series of metallic elements with atomic numbers 57 through 71, from lanthanum through lutetium.
+<<lattice>> :: The unique arrangement of atoms or molecules in a crystalline liquid or solid.
+<<lattice energy>> :: The energy released upon the formation of one mole of a crystalline ionic compound from its constituent ions, which are assumed to exist initially in the gaseous state. Lattice energy can be viewed as a measure of the cohesive forces that bind ionic solids; it is therefore directly related to many other physical properties of the solid, including solubility, hardness, and volatility.
+<<law of conservation of energy>> ::
+<<law of conservation of mass>> ::
+<<law of multiple proportions>> ::
+<<laws of thermodynamics>> ::
+<<leveling effect>> :: The effect of a solvent on the chemical properties of acids or bases which are dissolved in the solvent. The strength of a strong acid is limited or "leveled" by the basicity of the solvent, and likewise the strength of a strong base is limited by the acidity of the solvent, such that the effective pH of the solution is higher or lower than might be suggested by the acid's or base's dissociation constant.
+<<Lewis acid>> ::
+<<Lewis base>> ::
+<<Lewis structure>> ::
+<<ligand>> :: An ion, functional group, or other molecule that binds to a central metal atom to form a coordination complex. Such bonding can range from covalent to ionic, but generally involves formal donation of one or more of the ligand's electron pairs to the metal.
+<<light>> :: The portion of the electromagnetic spectrum which is visible to the unaided human eye.
+<<liquefaction>> :: Any process that generates a liquid from a solid or a gas, or that generates a non-liquid phase that behaves as a fluid.
+<<liquefaction point>> :: See /melting point/.
+<<liquid>> :: One of the four fundamental states of matter, characterized by nearly incompressible fluid particles that retain a definite volume but no fixed shape.
+<<liquid--liquid extraction>> (LLE) ::
+<<locant>> ::
+<<London dispersion forces>> :: A type of weak intermolecular force.
+<<macromolecule>> :: A very large molecule comprising many atoms and bonds, or any molecule with a high relative molecular mass, especially one whose structure is formed by the multiple repetition of discrete subunits derived, actually or conceptually, from molecules with low relative molecular mass (e.g. monomers, substituents, and functional groups). The term is often used interchangeably with polymer. ^{[2]}
+<<magnetic quantum number>> ::
+<<malleability>> :: See /ductility/.
+<<manometer>> :: An instrument used to measure pressure invented by Evangelista Torricelli in 1643.
+<<masking agent>> :: A reagent used in a chemical analysis which reacts with one or more other chemical species that may interfere in the analysis.
+<<mass>> :: A property of physical matter that is a measure of its resistance to acceleration when a net force is applied. The SI unit for mass is the kilogram (kg).
+<<mass concentration>> ::
+<<mass fraction>> ::
+<<mass number>> ( /A/) :: The total number of protons and neutrons (together known as nucleons) within the nucleus of an atom. It determines the atomic mass of the atom. Mass number varies between different isotopes of the same chemical element, and is often included either after the element's name (as in carbon-12) or as a superscript to the left of the element's symbol (as in ^{12}C) to identify a specific isotope.
+<<mass spectrometry>> (MS) :: An analytical technique that measures the mass-to-charge ratio of ions in a chemical sample by bombarding the sample with electrons to the point of ionization and then separating the charged fragments by subjecting them to an electric or magnetic field, typically in order to determine the elemental or isotopic signatures of an unknown substance, the masses of its constituent particles, and/or the identities or structures of the molecules within it. The results are presented as a mass spectrum, a plot of the intensity of ion signals as a function of the mass-to-charge ratio.
+<<matter>> :: Any substance that has mass and takes up space by having volume.
+<<metal>> :: Any chemical element which is a good conductor of both electricity and heat and which readily forms cations and ionic bonds with non-metals.
+<<melting>> :: The phase transition of a substance from a solid to a liquid.
+<<melting point>> :: The temperature at which a substance changes state from a solid to a liquid. It depends on pressure and is usually specified for a given substance under standard conditions. The melting point of a substance is identical to its freezing point.
+<<mercaptan>> See /thiol/.
+<<mercapto>> See /thiol/.
+<<metalloid>> :: A chemical element or substance possessing properties of both metals and non-metals.
+<<metamer>> See /isomer/.
+<<metathesis>> A chemical reaction involving the exchange of elements or functional groups between two or more compounds, as described by the general equation ${{AX} + {BY}}\rightarrow{{AY} + {BX}}$ . ^{[4]}
+<<methyl>> :: The alkyl group derived from methane, consisting of one carbon atom bonded to three hydrogen atoms, with the chemical formula CH ^{}\\
+<<methylene blue>> :: A heterocyclic aromatic compound with the molecular formula C _{16} H _{18} N _{3} S Cl.
+<<microcentrifuge tube>> :: A small plastic, sealable container that is used to store small volumes of liquid, generally less than 2 milliliters.
+<<mineral>> :: A solid chemical compound with a fairly well-defined chemical composition and a specific crystal structure that occurs naturally in pure form. ^{[10]}
+<<miscibility>> :: The tendency or capability of two or more substances (most commonly liquids, but also applicable to solids and gases) to blend uniformly when combined, i.e. to dissolve in each other, forming a homogeneous mixture that exists in a single phase, without separation of phases, regardless of the proportions of each substance. Substances that do not mix uniformly in all proportions are said to be /immiscible/. ^{[4]} ^{[2]}
+<<mixture>> :: A material made up of two or more different substances which are mixed physically but are not combined chemically (i.e. a chemical reaction has not taken place which has changed the molecules of the substances into new substances).
+<<moiety>> :: Any named characteristic group, branch, or other part of a large molecule that may be identified within other kinds of molecules as well. Functional groups are typically smaller and more generic than moieties, whereas substituents and side chains may often be classified as moieties and vice versa.
+<<molality>> :: A measure of the concentration of a solute in a solution in terms of the amount of the solute per unit mass of the solvent. Molality is typically expressed in units of moles per kilogram (mol/kg); a solution with a concentration of exactly 1 mol/kg is sometimes said to be /1 molal/. Contrast /molarity/.
+<<molar attenuation coefficient>> ::
+<<molar concentration>> :: A measure of the concentration of a chemical species, especially of a solute in a solution, in terms of the amount of the species per unit volume of solution. Molarity is typically expressed in units of moles per litre (mol/L); a solution with a concentration of exactly 1 mol/L is commonly said to be /1 molar/, abbreviated /1 M/. Contrast /molality/.
+<<molar fraction>> ::
+<<molar mass>> :: For a given chemical compound, the mass of a sample of that compound divided by the amount of compound in the sample, usually expressed in grams per mole (g/mol). As a bulk property, molar mass is an average of the masses of many instances of the compound, each of which may vary slightly due to the presence of isotopes of the compound's constituent atoms; it is commonly derived from the compound's molecular weight, which itself is a sum of the standard atomic weights of the constituent atoms, and is therefore a function of the relative abundance of the isotopes as they occur naturally on Earth. Molar mass allows easy conversion between mass and number of moles when considering bulk quantities of a substance.
+<<mole>> (mol) :: A unit (symbol: mol) used to measure the amount of a substance in terms of the absolute number of particles or entities composing the substance. By definition, one mole of any substance contains exactly the Avogadro number (i.e. 6.022 ×10 ^{ 23}) of particles or entities.
+<<molecular formula>> ::
+<<molecular orbital>> (MO) :: Any region in which one or more electrons may be found in a molecule (as opposed to that within an individual atom).
+<<molecular orbital diagram>> ::
+<<molecular weight>> ::
+<<molecule>> :: A number of atoms that are chemically bonded together and collectively electrically neutral.
+<<monatomic>> :: Having only one atom, as opposed to a molecule composed of more than one. Virtually all elements are monatomic in the gas phase at sufficiently high temperatures. Contrast /diatomic/ and /polyatomic/.
+<<natural abundance>> ::
+<<neat>> Conditions with a liquid reagent or gas performed with no added solvent or cosolvent.
+<<neutron>> :: A type of subatomic particle that is electrically neutral, having no net charge.
+<<nitrogen>> ::
+<<noble gas>> :: Any of the six non-metallic elements of Group 18 of the periodic table: helium (He), neon (Ne), argon (Ar), krypton (Kr), xenon (Xe), and radon (Rn). All of the noble gases have outer electron shells that are completely filled in their naturally occurring states, giving them very low chemical reactivity.
+<<non-metal>> :: Any chemical element which is not a metal.
+<<nonpolar compound>> :: A compound consisting of covalent molecules with no permanent dipole moment. ^{[3]}
+<<normality>> ::
+<<nuclear>> :: Of or pertaining to the atomic nucleus.
+<<nuclear chemistry>> :: The branch of chemistry that studies the various processes and properties relevant to atomic nuclei, including radioactivity.
+<<nuclear magnetic resonance spectroscopy>> :: A technique that exploits the magnetic properties of certain atomic nuclei, useful for identifying unknown compounds. Nuclear magnetic resonance is often abbreviated /NMR/.
+<<nuclear transmutation>> ::
+<<nucleon>> :: Either a proton or a neutron, considered in its role as a component of an atomic nucleus.
+<<nucleophile>> :: Any atom or molecule which can donate an electron pair to another atom or molecule. All molecules or ions with a free pair of electrons or at least one pi bond can act as nucleophiles, by which they are attracted to electron-deficient regions of other species; a chemical reaction involving a nucleophile donating an electron pair to an electrophile may be referred to as /nucleophilic attack/. Because they donate electrons, nucleophiles are Lewis bases by definition.
+<<nucleus>> :: The centre of an atom, made up of neutrons and protons and possessing a net positive electric charge.
+<<nuclide>> :: A species of atom characterized by its mass number, atomic number, and nuclear energy state, provided that the mean life in that state is long enough to be observable.
+<<number density>> :: A measure of the concentration of countable objects (atoms, molecules, etc.) in space, expressed as the number per unit volume.
+<<octet rule>> :: A classical rule for describing the electron configuration of atoms in certain molecules: the maximum number of electron pairs that can be accommodated in the valence shell of an element in the first row of the periodic table is four (or eight total electrons). For elements in the second and subsequent rows, there are many exceptions to this rule.
+<<olefin>> :: A trivial (non- IUPAC) name for any alkene.
+<<optical activity>> ::
+<<orbital>> Any region of an atom or molecule in which one or more electrons can be found. The term may refer to either an atomic orbital or a molecular orbital.
+<<orbital hybridisation>> ::
+<<order of reaction>> ::
+<<organic acid>> :: Any organic compound with acidic properties. Contrast /organic base/.
+<<organic base>> :: Any organic compound with basic properties. Contrast /organic acid/.
+<<organic chemistry>> :: The branch of chemistry concerned with the chemical properties and reactions of organic compounds. Contrast /inorganic chemistry/.
+<<organic compound>> :: Any chemical compound that contains one or more carbon atoms. Contrast /inorganic compound/.
+<<organic redox reaction>> ::
+<<organosulfur compound>> :: Any chemical compound which contains both carbon and sulfur atoms. ^{[4]}
+<<osmole>> ::
+<<osmosis>> :: The spontaneous net movement or diffusion of molecules of a solvent (e.g. water) through a selectively permeable membrane separating two solutions with different concentrations of dissolved solutes, in the direction that tends to equalize the solute concentrations on the two sides, i.e. from the more dilute solution to the more concentrated solution, or, equivalently, from a region of high water potential to a region of low water potential. Because the solute is unable to cross the membrane, the tendency towards equilibration compels the solvent to cross the membrane instead. This continues until an equilibrium is reached, where neither side of the membrane is more or less concentrated than the other.
+<<osmotic concentration>> ::
+<<osmotic pressure>> ::
+<<other metal>> Any of the metallic elements in the p-block, which are characterized by having a combination of relatively low melting points (all less than 950 K) and relatively high electronegativity values (all more than 1.6, revised Pauling).
+<<oxidation>> :: The increase in the oxidation state of a chemical species in a redox reaction, generally by losing electrons. Contrast /reduction/.
+<<oxidation state>> :: 1.  The degree of oxidation of an individual atom in a chemical compound, measured as the decrease in the number of electrons relative to the atom's naturally occurring elemental state.
+<<oxidizing agent>> :: 1.  A chemical species that gains or accepts one or more electrons from another species, called the reducing agent, in a redox reaction, thereby causing the oxidation of the other species and in turn being itself reduced. The oxidizing agent's oxidation state decreases, while the reducing agent's increases. ^{[3]}
+<<oxoacid>> :: 1.  Any acid having oxygen in the acidic group.
+<<oxygen>> ::
+<<p-block>> ::
+<<paired electron>> One of two electrons that together form a valence bond between two atoms. ^{[4]} Contrast /unpaired electron/.
+<<paraffin>> 1.  A trivial (non- IUPAC) name for any alkane.
+<<partial pressure>> ::
+<<partition coefficient>> ::
+<<pascal>> (Pa) ::
+<<passivation>> :: The process of coating a substance with a thin layer of a protective material, often a metal oxide, to create a shield against corrosion or other chemical reactions with the environment, thereby rendering the coated substance "passive" or less susceptible to undesirable reactions.
+<<passivity>> A state of chemical inactivity, especially of a metal that is relatively resistant to corrosion due to natural or induced loss of chemical reactivity (as with passivation). ^{[4]}
+<<pentabasic>> (of a chemical compound) Having five hydrogen atoms which may be replaced by metals or bases. ^{[4]}
+<<pentoxide>> Any binary compound containing five atoms of oxygen, e.g. iodine pentoxide ( I ^{}\\
+<<pentyl>> :: An alkyl functional group containing five carbon atoms, with the chemical formula -- C ^{}\\
+<<per->> A prefix in IUPAC chemical nomenclature meaning complete, exhaustive, or extreme, as in a completely substituted hydrocarbon; or indicating the presence of a peroxy group. ^{[4]}
+<<peracid>> :: An acid containing an acidic peroxy group ( --O--O--); e.g. periodic acid. ^{[4]}
+<<period>> :: A horizontal row of the periodic table of the elements and the elements that share it. Contrast /group/.
+<<periodic table of the elements>> :: A tabular arrangement of the chemical elements organized by their atomic number, electron configuration, and other chemical properties, whose adopted structure shows periodic trends and is used by chemists to derive relationships between various elements as well as predict the properties and behaviors of undiscovered or newly synthesized elements. The first periodic table of the elements was published by Russian chemist Dmitri Mendeleev in 1869.
+<<peroxide>> :: 1.  A class of compounds which contain a peroxy group, having the generic structural formula R--O--O--R, where R is any element or functional group; e.g. hydrogen peroxide (empirically H ^{}\\
+<<peroxy>> :: A functional group consisting of two oxygen atoms directly connected to each other by a single bond and each also connected to one other atom. Peroxides have the general structural formula --O--O--.
+<<pH>> :: A logarithmic scale used to specify the acidity or basicity of an aqueous solution. The pH scale approximates the negative of the base-10 logarithm of the molar concentration of hydrogen ions in a solution. At room temperature, pure water is neutral (pH = 7); solutions with a pH less than 7 are acidic and those with a pH greater than 7 are basic.
+<<phase>> :: A region of space throughout which all physical properties of a substance are essentially uniform, or a region of material that is chemically uniform, physically distinct, and often mechanically separable. The term /phase/ may have several different uses in chemistry contexts; colloquially, it is often used interchangeably with state of matter, but many distinct phases may exist within a single state of matter.
+<<phase diagram>> :: A graphical representation of the equilibrium relationships between thermodynamically distinct phases of a chemical compound, mixture, or solution, indicating the physical conditions (e.g. temperature and pressure) under which various phases (e.g. solid, liquid, and vapor) occur or coexist. ^{[4]}
+<<phase transition>> :: 1.  A transformation of a chemical substance between solid, liquid, and gaseous states of matter and, in rare cases, plasma.
+<<phenyl>> :: A functional group consisting of a cyclic ring of six carbon atoms with the chemical formula --C ^{}\\
+<<phi bond>> ::
+<<photon>> :: A carrier of electromagnetic radiation of all wavelengths (such as gamma rays and radio waves).
+<<physical chemistry>> :: The branch of chemistry that studies chemical systems in terms of the principles, practices, and concepts of physics, such as motion, energy, force, time, thermodynamics, chemical equilibrium, and statistical mechanics, among others. In contrast to chemical physics, physical chemistry is predominantly (though not entirely) a macroscopic science that studies the physical and chemical interactions of bulk quantities of matter.
+<<pi bond>> ::
+<<pipette>> :: A laboratory tool commonly used in chemistry, biology, and medicine to transfer and dispense a precisely measured volume of liquid.
+<<plasma>> :: One of the four fundamental states of matter, in which very high-energy particles are partially or fully ionized to the point that they display unique properties and behaviors unlike those of the other three states. Plasma does not exist freely on the Earth's surface under natural conditions.
+<<pnictogen>> :: Any of the chemical elements belonging to Group (V) of the periodic table: nitrogen (N), phosphorus (P), arsenic (As), antimony (Sb), bismuth (Bi), and moscovium (Ms). These elements are united by their common pentavalency; i.e. in their non-ionized states, atoms of these elements all have exactly five valence electrons in their outermost electron shell, three short of a complete octet.
+<<polarity>> ::
+<<polyatomic>> :: Composed of two or more atoms, of the same or different elements. Contrast /monatomic/ and /diatomic/.
+<<polyatomic ion>> :: A molecule composed of two or more covalently bonded atoms which collectively bear a net electric charge and therefore act as an ion.
+<<polymerization>> :: The chemical bonding of two or more individual monomer molecules to form a polymer chain or network; or any reaction that produces such a bonding. ^{[4]}
+<<potential energy>> :: The stored energy in a body or in a system due to its position in a force field or due to its configuration.
+<<precipitant>> A chemical compound or reagent that causes a chemical reaction resulting in the formation of a solid precipitate when added to a solution. ^{[4]}
+<<precipitate>> 1.  (n.) A solid substance that separates from a liquid solution or diffuses out of a solid alloy during the process of precipitation. ^{[4]}
+<<precipitation>> :: The process of producing a separable solid phase within a liquid medium, e.g. by transforming the dissolved solute of a supersaturated solution into an insoluble solid; or the diffusion of a distinct solid phase out of a solid alloy. A reagent that causes such a reaction is called the precipitant, and the separable solid itself is the precipitate. ^{[4]} More generally, the term may refer to the formation of any new condensed phase by changing the physical properties of a system (e.g. water vapor condensing into liquid water droplets).
+<<precision>> How close the results of multiple experimental trials or observations are to each other. Compare /accuracy/.
+<<pressure>> :: The force applied perpendicular to the surface of an object per unit area. The SI unit for pressure is the pascal (Pa), though many other units of pressure are also commonly used in chemistry.
+<<primary>> :: The simplest, most commonly known, or canonical form of a chemical compound with multiple similar or isomeric forms. For example, in a primary alcohol, the carbon is bonded to a single substituent group ( R ^{}\\
+<<protective group>> ::
+<<proton>> :: A subatomic particle with a positive electric charge that is found in the nucleus of an atom. Often denoted with the symbol H ^{+}.
+<<protonation>> :: The addition of a proton (H ^{+}) to an atom, molecule, or ion.
+<<pure substance>> See /chemical substance/.
+<<pyrolysis>> :: The thermal decomposition of materials at elevated temperatures in an inert atmosphere such as a vacuum gas.
+<<quantum>> ::
+<<quantum mechanics>> :: The study of how atoms, molecules, subatomic particles, etc. behave and are structured.
+<<quark>> :: An elementary particle and a fundamental constituent of matter.
+<<racemate>> :: An equimolar mixture of a pair of enantiomers which does not exhibit optical activity. The chemical name or formula of a racemate is distinguished from those of the enantiomers by the prefix (±)- or by the symbols /RS/ and /SR/.
+<<radiation>> :: Energy released in the form of waves or subatomic particles when there is a change from high-energy to low-energy states.
+<<radical>> :: Any atom, molecule, or ion that has at least one unpaired valence electron. With few exceptions, such unpaired electrons make radicals highly chemically reactive, and therefore organic radicals are usually short-lived.
+<<radioactive decay>> :: The process by which an unstable atomic nucleus loses excess nuclear energy by emitting radiation in any of several forms, including as gamma radiation, as alpha or beta particles, or by ejecting electrons from its atomic orbitals.
+<<radiochemistry>> :: The branch of chemistry involving the study of radioactive substances and radioactivity, including the use of radioactive isotopes to study non-radioactive isotopes and ordinary chemical reactions.
+<<radionuclide>> :: A radioactive nuclide of a specified element, especially a particular isotope of that element which characteristically undergoes spontaneous decay into one or more stable nuclides by emitting excess energy from the nucleus. ^{[2]}
+<<Raoult's law>> :: A law of thermodynamics which states that the partial pressure of each gaseous component of an ideal mixture of liquids is equal to the vapor pressure of the pure component multiplied by its molar fraction in the mixture.
+<<rare-earth element>> :: Any of the 17 nearly indistinguishable, silvery-white, soft, heavy metallic elements belonging to a set including the lanthanide series (atomic numbers 57 through 71) as well as scandium and yttrium.
+<<rate equation>> ::
+<<rate-determining step>> :: The slowest step in a chemical reaction that involves more than one step. The rate of this step determines the overall reaction rate. ^{[3]}
+<<reactant>> :: Any substance that is consumed in the course of a chemical reaction.
+<<reaction barrier>> The energy deficit that must be overcome in order for a particular chemical reaction to proceed. In transition state theory, the reaction barrier is interpreted as the difference between the zero-point energy of the activated complex formed in the reaction and that of the initial reactants. ^{[2]} See also /activation energy/.
+<<reaction mechanism>> :: The step-by-step sequence of elementary reactions by which a larger chemical reaction or overall change occurs. A complete mechanism must describe and explain which bonds are broken and which are formed (and in what order), as well as all reactants, products, and catalysts involved; the amounts of each; all intermediates, activated complexes, and transition states; and the stereochemistry of each chemical species. Because the detailed processes of a complex reaction are not observable in most cases, a reaction mechanism is often a theoretical conjecture based on thermodynamic feasibility and what little support can be gained from experiment.
+<<reaction rate>> :: The speed at which reactants are converted into products in a chemical reaction.
+<<reaction rate constant>> ::
+<<reactive bond>> A chemical bond between atoms which, in a particular context, is relatively unstable and therefore easily broken or invaded by other chemical species or radicals; e.g. the double bond in ethylene ( CH ^{}\\
+<<reactive intermediate>> ::
+<<reactivity>> :: The tendency of a particular chemical substance to undergo a chemical reaction, either by itself or with other substances, generally referring to either or both of two distinct observations: whether or not a substance reacts under a specific set of circumstances, and how quickly it reacts (i.e. the reaction rate). Thermodynamically, a chemical reaction occurs because the products (taken as a group) exist at a lower free energy than the reactants, and hence are more energetically "stable", but the concept of reactivity may also embody kinetic factors, depending on the usage. Chemical stability and chemical compatibility are related but distinct concepts.
+<<reactivity series>> :: An empirical, calculated, and structurally analytical progression of a series of metals, arranged by their general reactivity from highest to lowest and used to summarize information about their reactions with acids and water and the methods used to extract them from ores.
+<<reagent>> :: 1.  Another name for a reactant.
+<<redox>> ::
+<<reducing agent>> :: A chemical species that loses or donates one or more electrons to another species, called the oxidizing agent, in a redox reaction, thereby causing the reduction of the other species and in turn being itself oxidized. The reducing agent's oxidation state increases, while the oxidizing agent's decreases. ^{[3]}
+<<reduction>> :: The decrease in the oxidation state of a chemical species in a redox reaction, generally by gaining electrons. Contrast /oxidation/.
+<<reduction potential>> ::
+<<refractory>> :: 1.  Having a high melting point. ^{[3]}
+<<resonance>> ::
+<<retort>> :: A laboratory apparatus used for the distillation or dry distillation of chemical substances, traditionally consisting of a spherical vessel with a long, downward-pointing neck that conducts the condensed vapors produced by distillation into a separate collection vessel.
+<<reversible reaction>> :: A chemical reaction that can proceed in either direction depending on the reaction conditions, i.e. from reactants to products or from products to reactants, especially implying one in which both conversions occur simultaneously. Contrast /irreversible reaction/.
+<<rotamer>> ::
+<<round-bottom flask>> ::
+<<rust>> ::
+<<s-block>> :: The collective name for the elements in Groups 1 and 2 of the periodic table (the alkali and alkaline metals), as well as hydrogen and helium.
+<<saline solution>> :: A common term for a solution of sodium chloride (NaCl) dissolved in water (H _{2}O).
+<<salt>> :: Any ionic compound composed of one or more anions and one or more cations.
+<<salt bridge>> :: A device used to connect reduction with oxidation half-cells in an electrochemical cell.
+<<saturation>> ::
+<<Schrödinger equation>> :: A quantum state equation which represents the behaviour of an electron around an atom.
+<<second-order reaction>> ::
+<<semiconductor>> :: An electrically conductive solid whose degree of conductivity lies somewhere between that of a conductor and that of an insulator.
+<<serial dilution>> ::
+<<side chain>> :: A chemical substituent group that is attached to the core part or " backbone" of a larger molecule, especially an oligomeric or polymeric hydrocarbon chain that branches off of the longer primary chain of a macromolecule. The term is most commonly encountered in biochemistry and organic chemistry.
+<<single bond>> :: A bond that involves the sharing of one pair of electrons.
+<<skeletal formula>> ::
+<<sol>> :: A suspension of solid particles in a liquid. Artificial examples include sol-gels.
+<<solid>> :: One of the four fundamental states of matter, characterized by relatively low-energy particles packed closely together in rigid structures with definite shape and volume. See /Young's modulus/.
+<<solid-phase extraction>> (SPE) ::
+<<solubility>> :: The property of a solid, liquid, or gaseous solute to dissolve in a solid, liquid, or gaseous solvent. It is typically expressed as the proportion of solute dissolved in the solvent in a fully saturated solution.
+<<solubility product>> ( $K_{\text{s}}$  or $K_{\text{sp}}$ ) :: A measure of the solubility of an ionic solute, expressed as the arithmetic product of the concentrations of its ions in a fully saturated solution, with respect to the solute's particular dissociation equilibria and the particular ions present. For a dissociation equilibrium ${A_{x}{B_{y}}_{(s)}}\leftrightharpoons{xA_{(aq)}^{+}} + {yB_{(aq)}^{-}}$ , the solubility product of the ionic solute $A_{x}B_{y}$  is given by $K_{\text{s}} = \lbrack\text{A}^{+}\rbrack^{x}\lbrack\text{B}^{-}\rbrack^{y}$ , where $\lbrack\text{A}^{+}\rbrack$  and $\lbrack\text{B}^{-}\rbrack$  are the concentrations of the solute's ionic constituents in a saturated solution. The solubility product is derived from and functions like the equilibrium constant of dissociation, though unlike an equilibrium constant it is not dimensionless. If the product of ionic concentrations in a solution exceeds the solubility product, then precipitation occurs. ^{[3]}
+<<solute>> :: The part of a solution that is dissolved into the solvent. For example, sodium chloride (NaCl) is the solute in a solution of saline water.
+<<solution>> :: A homogeneous mixture made up of multiple substances generally referred to as solutes and solvents.
+<<solvated electron>> ::
+<<solvation>> :: Any stabilizing interaction of a solute with a solvent, or a similar interaction between a solvent and groups of an insoluble material (e.g. the ionic groups of an ion-exchange resin). Such interactions generally involve electrostatic forces and van der Waals forces, as well as compound-specific effects such as hydrogen bonding. ^{[2]} See also /dissolution/.
+<<solvation shell>> ::
+<<solvent>> :: The part of a solution that dissolves the solute. For example, water (H _{2}O) is the solvent in a solution of saline water.
+<<sonication>> :: The process of irradiating a substance with sound energy, usually at ultrasound (>20  kHz) frequencies, in order to agitate the particles in a sample for various purposes, such as increasing the rate of a chemical reaction or preparing vesicles in mixtures of surfactants and water. ^{[2]}
+<<spatial isomer>> :: See /stereoisomer/.
+<<specific heat capacity>> ( /c/ _{p}) :: The heat capacity of a sample of a substance divided by the mass of the sample. Informally, it is the amount of heat that must be added to one unit of mass of the substance in order to cause an increase of one unit in temperature. The SI unit of specific heat capacity is joule per kelvin per kilogram (J/K/kg). Specific heat capacity often varies with temperature and with each state of matter.
+<<spectrochemistry>> ::
+<<spectrometry>> See /mass spectrometry/.
+<<spectroscopy>> :: The study of radiation and matter, such as X-ray absorption and emission spectroscopy.
+<<standard solution>> ::
+<<standard conditions of temperature and pressure>> (STP) :: A standardisation of ambient temperature and pressure used in order to easily compare experimental results. Standard temperature is 25 degrees Celsius (°C) and standard pressure is 100.000 kilopascals (kPa). Standard conditions are often denoted with the abbreviation /STP/ or /SATP/.
+<<state of matter>> :: The condition of matter existing in a distinct, homogeneous, macroscopic form. Solid, liquid, gas, and plasma are the four traditional states of matter and the most well-known. See also /phase/.
+<<stepwise reaction>> ::
+<<stereochemistry>> ::
+<<stereogenic center>> ::
+<<stereoisomer>> :: An isomer which possesses an identical chemical composition but which differs in the spatial arrangement of its atoms.
+<<stoichiometry>> :: The calculation of quantities of reactants and products in chemical reactions. Stoichiometry is based on the law of conservation of mass and the observation that quantities of reactants and products typically exist in ratios of positive integers, implying that if the amounts of the separate reactants are known, then the amounts of the products can be calculated, and vice versa.
+<<strong acid>> :: An acid that completely dissociates in solution according to the reaction $\text{HA} + \text{S}\overset{- \!\!\rightharpoonup}{\leftharpoondown\!\! -}\text{SH}^{+} + \text{A}^{-}$ , or to such an extent that the concentration of the undissociated species $\text{HA}$  is too low to be measured. Any acid with a pK _{a} of less than approximately -2 is generally considered a strong acid; an example is hydrochloric acid (HCl). Contrast /weak acid/.
+<<strong base>> ::
+<<structural formula>> :: A graphical representation of the molecular structure and geometry of a particular chemical compound, showing how the atoms are arranged in real, three-dimensional space. Chemical bonding within the molecule is also shown, either implicitly or explicitly. When known with certainty, structural formulas are very useful because they allow chemists to visualize the molecules and the structural changes that occur in them during chemical reactions.
+<<structural isomer>> ::
+<<subatomic particle>> :: Any particle that is smaller than an atom. Examples include protons, neutrons, and electrons.
+<<sublimation>> :: The phase transition of a substance from a solid to a limewater fuel or gas without an apparent intervening transition to a liquid in the process.
+<<substance>> :: See /chemical substance/.
+<<substituent>> :: An atom or a group of atoms which replaces another atom or group of atoms within a larger molecule as the product of a chemical reaction, thereby becoming a moiety of the newly formed compound, generally without causing any significant change to other parts of the same molecule. For example, a hydroxyl group may be substituted for any of the hydrogen atoms in benzene to form phenol. See also /side chain/ and /functional group/.
+<<substitution reaction>> :: A type of chemical reaction in which one functional group within a larger compound replaces or is substituted for another functional group.
+<<superheavy elements>> See /transactinides/.
+<<surface science>> ::
+<<surface tension>> ::
+<<surfactant>> :: A substance which lowers the surface tension of the medium in which it is dissolved, and/or the interfacial tension with other phases, and, accordingly, is positively adsorbed at the liquid--vapor and/or other interfaces. ^{[2]}
+<<suspension>> :: A heterogeneous mixture that contains solid particles which are sufficiently large for sedimentation to occur, by which such particles separate from and settle out of the fluid over time if left undisturbed. In a suspension, the solute does not dissolve but remains dispersed or suspended throughout the fluid solvent only transiently and with mechanical agitation. Contrast /colloid/ and /solution/.
+<<tarnish>> :: A thin layer of corrosion that forms on the surface of copper, brass, aluminum, magnesium, and other soft metals or alloys as their outermost layer undergoes a chemical reaction with the surrounding air, often but not necessarily involving atmospheric oxygen. Tarnish usually appears as a dull grey, black, or sometimes iridescent film or coating on the metal. It is a self-limiting surface phenomenon, as the tarnished top layers of the metal protect underlying layers from reacting.
+<<temperature>> :: A proportional measure of the average kinetic energy of the random motions of the constituent microscopic particles of a system. The SI unit for temperature is the kelvin.
+<<ternary compound>> :: A chemical compound containing three different elements. ^{[3]}
+<<terpene>> :: A class of naturally occurring unsaturated hydrocarbons with carbon skeletons derived from one or more units of isoprene ( C ^{}\\
+<<theoretical yield>> :: See /yield/.
+<<thermal conductivity>> :: The property of a material that allows it to conduct thermal energy or heat (a quantity often denoted by $k$ ).
+<<thermochemistry>> :: The study of the absorption or release of heat during a chemical reaction.
+<<thermodynamic stability>> :: The condition of a system being in its lowest energy state with its environment (equilibrium).
+<<thermodynamics>> :: The study of the effects of changing temperature, volume or pressure (or work, heat, and energy) on a macroscopic scale.
+<<thermometer>> :: An instrument used to measure temperature.
+<<thiol>> :: 1.  Any of a class of organosulfur compounds consisting of a sulfur atom attached to a hydrogen atom and any other organic substituent, with the general formula R--SH. Thiols are the sulfur analogues of alcohols. Also /*thiol derivative*/ and /*mercaptan*/.
+<<titration>> :: A laboratory method of quantitative chemical analysis that is used to determine the concentration of an identified analyte. The procedure involves preparing a particular reagent as a standard solution of known concentration and volume (called the /titrant/ or /titrator/) and allowing it to react with a solution of the analyte (called the /titrand/) to determine the latter's concentration.
+<<torr>> :: A unit for measuring pressure, equivalent to 133.322  Pa or 1.3158 × 10 ^{−3}  atm.
+<<trace element>> :: An element in a sample which has an average concentration of less than 100 parts per million atoms or less than 100 micrograms per gram. ^{[4]}
+<<transactinides>> :: In the periodic table, the set of chemical elements with an atomic number greater than 103, i.e. those heavier than the actinides. The transactinides are a subset of the transuranic elements.
+<<transition metal>> :: An element whose atoms naturally occur with incompletely filled "d" sub-shells. These elements are grouped as the so-called /d-block elements/ in the periodic table.
+<<transuranic elements>> :: The set of chemical elements with an atomic number greater than 92, i.e. occurring after uranium in the periodic table. None of the transuranic elements are stable in natural conditions.
+<<triple bond>> :: A bond that involves the covalent sharing of three pairs of electrons (for example, the diatomic nitrogen molecule, N _{2}, is composed of two nitrogen atoms linked by a triple bond).
+<<triple point>> :: The place where temperature and pressure of three phases are the same. Water has a special phase diagram.
+<<Tyndall effect>> :: The effect of light scattering by colloidal or suspended particles.
+<<UN number>> :: A four-digit code used to note hazardous and flammable substances.
+<<uncertainty>> :: The notion that any measurement that involves estimation of any amount cannot be exactly reproducible.
+<<uncertainty principle>> :: Knowing the location of a particle makes the momentum uncertain, while knowing the momentum of a particle makes the location uncertain.
+<<unit cell>> :: The smallest repeating unit of a crystalline lattice.
+<<unit factor>> :: Statements used in converting between units.
+<<unpaired electron>> ::
+<<vacuum flask>> :: A storage vessel consisting of two flasks or other containers, placed one within the other and joined at the neck, and a space in between that is partially evacuated of air, creating a near- vacuum that significantly reduces the transfer of heat between the vessel's interior and its ambient environment. Vacuum flasks can greatly lengthen the time over which their contents remain warmer or cooler than the ambient environment.
+<<valence electron>> :: Any of the outermost electrons of an atom, which are located in electron shells.
+<<valence bond theory>> :: A theory explaining the chemical bonding within molecules by discussing valencies, the number of chemical bonds formed by an atom.
+<<valency>> :: The combining capacity of an element.
+<<van der Waals force>> :: One of the forces (attraction/repulsion) between molecules.
+<<van 't Hoff factor>> :: The ratio of moles of particles in solution to moles of solute dissolved.
+<<vapor>> :: When a substance is below the critical temperature while in the gas phase.
+<<vapor pressure>> :: The pressure exerted by a vapor which is in thermodynamic equilibrium with its condensed phases ( solid or liquid) at a given temperature in a closed system. It is commonly described as the tendency of particles to spontaneously escape from the liquid or solid state into the gaseous state and is used as an indication of a liquid's evaporation rate.
+<<vaporization>> :: The phase transition of a substance from a liquid to a gas.
+<<vaporization point>> :: See /boiling point/.
+<<viscosity>> :: A measure of the resistance of a liquid to flow.
+<<volatility>> :: A material quality which describes how readily a substance vaporizes. At a given temperature and pressure, a substance with high volatility is more likely to exist as a gas, while a substance with low volatility is more likely to exist as a liquid or solid; equivalently, less volatile substances will more readily condense from a gaseous state than highly volatile ones.
+<<volt>> (V) :: A derived unit of electric potential, electric potential difference, and electromotive force, defined as one joule of work per coulomb.
+<<voltmeter>> :: An instrument that measures electrical cell potential.
+<<volume>> :: The quantity of three-dimensional space enclosed by a closed surface, or the space that a substance (solid, liquid, gas, or plasma) or shape occupies or contains. The SI unit for volume is the cubic metre (m ^{3}).
+<<volumetric analysis>> See /titration/.
+<<volumetric flask>> ::
+<<watch glass>> :: A circular, concave piece of glass commonly used in chemistry laboratories as a working surface for various purposes, such as evaporating liquids, holding solids while they are being weighed, heating small amounts of a substance, or as a cover for a beaker.
+<<water>> :: A polar inorganic compound with the chemical formula H _{2}O that is a tasteless, odorless, and generally colorless liquid at standard temperature and pressure, though it also occurs naturally as a solid and a gas at the Earth's surface. It is the most abundant substance on Earth and therefore an integral component of virtually all chemical and biological systems. Water is often described as the "universal solvent" for its inherent ability to dissolve many substances.
+<<water of crystallization>> :: Water molecules that are present inside crystals. Upon crystallization from water or aqueous solutions, many compounds incorporate water in their crystalline frameworks; the water molecules are typically present in a stoichiometric ratio and may interact to varying degrees with the atoms of the crystal.
+<<wave function>> :: A mathematical function describing the position of an electron in a three-dimensional space.
+<<weak acid>> :: An acid that only partially dissociates when dissolved in a solvent because, according to the reaction $\text{HA}\overset{- \!\!\rightharpoonup}{\leftharpoondown\!\! -}\text{H}^{+} + \text{A}^{-}$ , equilibrium is reached while the concentration of the undissociated species $\text{HA}$  is still significant; an example is acetic acid (CH _{3}COOH). Contrast /strong acid/.
+<<weak base>> ::
+<<wet chemistry>> :: A form of analytical chemistry which uses classical laboratory methods such as simple observation and elementary chemical tests to study chemicals and chemical reactions, i.e. without the use of sophisticated instruments or automated or computerized analysis. It is often used in schools to teach the principles of chemistry to students.
+<<wetting agent>> ::
+<<work>> ::
+<<work-up>> :: The series of manipulations required to isolate and purify the desired product or products of a chemical reaction.
+<<X-ray>> :: A form of ionizing, electromagnetic radiation between gamma and UV rays in the electromagnetic spectrum.
+<<X-ray diffraction>> :: a method for establishing structures of /crystalline/ solids using single wavelength X-rays and looking at diffraction pattern.
+<<X-ray photoelectron spectroscopy>> :: A spectroscopic technique used to measure the chemical composition of a material.
+<<yield>> :: The quantifiable amount of product produced during a chemical reaction.
+<<zero-point energy>> (ZPE) ::
+<<zone melting>> :: Any of several methods of purifying crystalline solids which involve applying heat to a small region of a larger solid (particularly a metal ingot) until localized melting occurs, creating a molten zone which is then slowly moved along the surface to other parts of the solid by moving the target of the heating element. As it moves, the forward edge of the molten zone continuously melts new areas of impure solid, while leaving a path of purer solid behind it as previously melted areas are cooled and resolidified; because the molten liquid phase can hold a higher concentration of impurities than the solid phase, the impurities of melted areas tend to concentrate in the molten zone and be carried along as it moves, leaving behind regions with fewer impurities. The process is commonly used in the refinement of high-purity metalloids for use in semiconductors.
+<<zinc>> :: A metallic chemical element with atomic number 30 and symbol Zn.
+<<zwitterion>> :: Any molecule that contains an internal polarity by virtue of having an equal number of positively charged and negatively charged functional groups.

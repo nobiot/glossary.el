@@ -1,0 +1,42 @@
+Definitions
+
+: org-etags
+  <<<org-etags>>
+  One of my tiny packages. It is to refurbish the old built-in
+  ~org-ctags~ and let us use radio targets across files with etags TAG
+  table. It uses the built-in ~etags~ program, not Universal Ctags or
+  Exuberant Ctags like the orinal ~org-ctags~ does.
+
+  See ~/src/org-etags/, ~/Documents/projects/projects.org
+
+: sfumato
+  <<<sfumato>>>
+  sfumato, (from Italian sfumare, “to tone down” or “to evaporate like
+  smoke”), in painting or drawing, the fine shading that produces soft,
+  imperceptible transitions between colours and tones.
+
+  Source: https://www.britannica.com/art/sfumato
+  Sfumato | Renaissance, Shadowing, Blending - Britannica
+
+: Japonism
+  <<<japonism>>>
+  le <<<japonisme>>> French
+
+  > Depicting the world through an alternate lens from the Western
+  > Renaissance, the introduction of Japanese art and design to Europe
+  > brought about revolutions in composition, palette, and perspectival
+  > space. Japonism, also often referred to by the French term,
+  > /japonisme/, refers to the incorporation of either iconography or
+  > concepts of Japanese art into European art and design. It is
+  > important to note that this integration was often based on European
+  > notions of Japanese culture as much as authentic influence. Most of
+  > the Impressionist and Neo-Impressionist artists, as well as the
+  > members of the Aesthetic movement, were deeply influenced by this
+  > new approach to representation.
+
+=>  Source https://www.theartstory.org/movement/japonism/ Japonism Movement Overview TheArtStory
+
+    Refer to id:2024-03-24T203318 Japonism Movement Overview
+
+: 林忠正 Hayashi Tadamasa
+  <<林忠正>>

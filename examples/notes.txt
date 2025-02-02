@@ -1,0 +1,48 @@
+[2024-04-18]
+
+(length ten-regexps)
+
+(length (ten-tags-all))
+4518 is now working without a stress.
+
+(length font-lock-keywords)
+
+japonism
+
+Machiavelli
+
+401(a) Retirement Plan
+
+A performance issue is observed when I try opening a glossary file with
+`consult-recent-file'. When a single org file contains 1000+ radio
+targets, the `org-update-radio-target-regexp' function requires a lot of
+time to process. Org version is 9.6.15, which is before the
+implementation of large radio target regexps variable. Turning on
+`org-mode` evaluates (org-update-radio-target-regexp), which then takes
+time.
+
+A solution for this is to not use the file extension .org so that the
+Org won't be activate for these glossary files. I could not find a way to deactivate radio targets.
+
+zinc
+(re-search-forward ten-regexp)
+(setq ten-regexp nil)
+
+cell.
+
+unlockable items in the video  game. XP won't be provided. PvP is not allowed.
+
+(tags-completion-table (current-buffer))
+
+decomposition
+dendrite
+
+Archaea
+
+alkaline lysis
+
+alkaline alkaline earth metal
+
+allele
+
+affected relative pair
