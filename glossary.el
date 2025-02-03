@@ -4,8 +4,8 @@
 
 ;; Author: nobiot <me@nobiot.com>
 ;; Created: 30 March 2024
-;; Last modified: 02 February 2025
-;; Version: 20250202.2009
+;; Last modified: 03 February 2025
+;; Version: 20250203.1958
 ;; Keywords: wp, hypermedia, xref, etags
 
 ;;; Commentary:
@@ -355,9 +355,7 @@ function `glossary-regexps'."
   (glossary-regexps))
 
 (defun glossary-regexps-initialize-and-refresh-all ()
-  "Initialize variable `glossary-regexps' and refresh all buffers.
-This function is meant to be used in the advice function for
-`visit-tags-table'."
+  "Initialize variable `glossary-regexps' and refresh all buffers."
   (glossary-regexps-initialize)
   (glossary-font-lock-refresh-all-buffers))
 
