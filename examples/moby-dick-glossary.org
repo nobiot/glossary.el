@@ -1,14 +1,16 @@
-Total Words in File: 222559
-Number of Words Extracted: 5000
+Total Words in Moby Dick File: 222,559
+Number of Words Extracted: 5,000
 
 * Words
 
 ** abandoned
-   <<abandoned>> <<abandone>>
-   <<abondone>> ← The ~etags~ program does not support multiple tags
+   <<abandoned>>
+   <<abandone>> ← The ~etags~ program does not support multiple tags
    definitions in a single line. Aliases, translations, different
    morphological forms can be represented but you'd need to list them over
    mulitiple lines, one each line.
+
+   For example, see the entry for "aesthetically".
 
    Maecenas tortor tortor, elementum sit amet
    eros sit amet, ultricies tincidunt neque. Cras quis mauris nec urna
