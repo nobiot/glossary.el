@@ -5,7 +5,7 @@
 ;; Author: nobiot <me@nobiot.com>
 ;; Created: 30 March 2024
 ;; Last modified: 03 February 2025
-;; Version: 20250203.1958
+;; Version: 20250203.2000
 ;; Keywords: wp, hypermedia, xref, etags
 
 ;;; Commentary:
@@ -351,7 +351,7 @@ and sets `tags-file-name' globally with the value of user option
 
 For more detail about variable `glossary-regexps', see document string of
 function `glossary-regexps'."
-  (unless tags-file-name (setq tags-file-name (glossary-tags-file-default)))
+  (unless tags-file-name (visit-tags-table (glossary-tags-file-default)))
   (glossary-regexps))
 
 (defun glossary-regexps-initialize-and-refresh-all ()
